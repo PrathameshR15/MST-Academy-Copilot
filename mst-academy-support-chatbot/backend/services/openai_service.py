@@ -1,3 +1,4 @@
+# pyrefly: ignore [missing-import]
 import openai
 import json
 from config import OPENAI_API_KEY, OPENAI_MODEL
@@ -97,6 +98,16 @@ Include multiple variations in search_terms (e.g. for pricing: fee, cost, price,
             model=OPENAI_MODEL,
             messages=[
                 {"role": "user", "content": prompt}
+            ],
+            response_format={ "type": "json_object" },
+            timeout=10.0
+        )
+        text = response.choices[0].message.content.strip()
+        return json.loads(text)
+    except Exception as e:
+        print(f"OpenAI Query Analysis Error: {str(e)}")
+        raise
+ {"role": "user", "content": prompt}
             ],
             response_format={ "type": "json_object" },
             timeout=10.0
