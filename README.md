@@ -71,3 +71,18 @@ When a user asks a question, the backend processes it using the following logic:
 - **Local Knowledge**: Loaded automatically on backend startup.
 - **Refresh Website Knowledge**: Click the button in the admin panel on the frontend to crawl the configured website URL and update the cache.
 - **Chat**: Use the main chat interface to interact with the support assistant.
+
+## Embedding the Chat Widget on Your Website
+
+Add a single script tag to any page of your Masterstroke Academy website. The widget will load automatically, create a floating chat button, and connect to the existing FastAPI chatbot API.
+
+```html
+<script src="https://YOUR-RENDER-URL.com/static/widget.js"></script>
+```
+
+> **Note:**
+> * No separate frontend deployment is required.
+> * The widget is fully self‑contained (HTML, CSS, and JavaScript).
+> * Ensure the backend server (`/api/chat`) is reachable from the website (CORS is already configured).
+
+After adding the tag, refresh the page – the chat bubble will appear in the bottom‑right corner, ready for users to interact.
