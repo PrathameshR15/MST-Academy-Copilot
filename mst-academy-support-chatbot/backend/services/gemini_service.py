@@ -58,7 +58,7 @@ def analyze_query_gemini(query: str, history: list) -> dict:
 
     prompt = f"""You are a query analysis AI for an Academy Support chatbot.
 Your job is to understand the user's intent and generate search terms to find the right information in the knowledge base.
-The chatbot helps with: pricing, enrollment, payment, login, course access, videos, notes/downloads, mock tests, results, certificates, internships, course structure, and technical issues.
+The chatbot helps with: pricing, enrollment, payment, login, course access, videos, notes/downloads, mock tests, results, certificates, internships, course structure, technical issues, assessments, evaluation, and assignments.
 
 {history_str}
 Current User Query: {query}

@@ -1,0 +1,15 @@
+EVALUATION / Assessment framework
+
+Every submodule includes rigorous assessments. Score at least 70% to unlock the next lesson. Full-screen lockdown mode ensures integrity.
+
+Evaluation Breakdown:
+1. MCQ + True/False (35%): Concept recall with justification where required.
+2. Coding & Completion (30%): Solidity exercises, debugging, and testnet deployment.
+3. Descriptive & Design (15%): Scenario answers, architecture diagrams, essays.
+4. Projects & Practicals (12%): GitHub repos, audit reports, NFT mints, capstone.
+5. Presentations & Pitches (8%): Slide decks, live pitches, Demo Day presentations.
+
+Assessment Structure:
+- Submodule assessments after each lesson
+- Module-end comprehensive tests
+- Capstone project + Demo Day pitch
