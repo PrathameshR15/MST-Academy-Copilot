@@ -1,0 +1,129 @@
+Here is the complete and updated breakdown of the entire page, including the interactive user flow and navigation paths:
+
+---
+
+### Program Overview & Key Metrics
+
+* **Total Duration:** 130+ Hours
+* **Structure:** 4 Phases | 21 Modules | 123 Submodules
+* **Pass Criteria:** Minimum 70% score on each submodule assessment to progress (features full-screen lockdown mode for exam integrity).
+
+---
+
+### Primary Page Function & Navigation Flow
+
+The page serves as an **interactive educational roadmap and syllabus showcase**. Below are the exact user flows and navigation paths triggered when interacting with the page controls:
+
+* **"Open Learning Tree" Button**
+* **Path:** `Curriculum Overview` $\rightarrow$ `Learning Tree / Dashboard` (`[https://masterstroke.academy/learn](https://masterstroke.academy/learn)`)
+* **Function:** Expands the visual skill tree and interactive node map where students navigate modules and track overall completion.
+
+
+* **"Start Learning" Button**
+* **Path:** `Curriculum Overview` $\rightarrow$ `Student Portal / Login` (`[https://masterstroke.academy/learn](https://masterstroke.academy/learn)`)
+* **Function:** Directs returning users to sign in or new users to register and access their active workspace.
+
+
+* **Individual Submodule Cards** *(e.g., "1. The Birth of the Internet")*
+* **Path:** `Curriculum Overview` $\rightarrow$ `Lesson View & Assessment Environment` (`[https://masterstroke.academy/academy-overview#](https://masterstroke.academy/academy-overview#)`)
+* **Function:** Opens the specific lesson content, interactive coding labs, and the mandatory 70%-pass evaluation.
+
+
+
+---
+
+### Graduate Outcomes
+
+* **Job-Ready Blockchain Engineer:** Write, test, audit, and deploy Solidity smart contracts; build full-stack dApps with wallet integration on MST Blockchain.
+* **Funded Web3 Founder:** Graduate with a live dApp, investor pitch deck, and a path to MST grant funding up to $50,000.
+* **Security & Audit Specialist:** Master reentrancy, proxy patterns, and formal verification; produce professional audit reports before mainnet.
+* **Web3 Entrepreneur:** Learn tokenomics, DAO governance, DeFi mechanics, and RWA tokenisation.
+
+---
+
+### Detailed Curriculum Breakdown
+
+#### Phase 1: The Internet, Decentralisation & Blockchain Foundation (~18 hrs | 4 Modules, 28 Submodules)
+
+* **Module 1: The Internet Revolution – From Web 1.0 to Web 3.0 (6 lessons)**
+1. *The Birth of the Internet: ARPANET to Global Network:* Why it was built decentralized, how it worked, and where centralization crept back in.
+2. *Web 1.0 The Read Only Library:* Understanding static content and what blockchain fixes.
+3. *Web 2.0 The Social and Centralised Web:* Interactive/social web and the trade-offs in data, freedom, and ownership.
+4. *Web 2.0's Hidden Costs:* Platform cuts, free app economics, and reclamation via blockchain.
+5. *Web 3.0 - The Ownership Web:* True ownership of data, money, and digital identity.
+6. *Web 2 vs Web 3 Showdown:* Practical exercise redesigning WhatsApp as a blockchain dApp.
+
+
+* **Module 2: Centralisation vs Decentralisation (6 lessons)**
+1. *Centralised Systems: YouTube & Google Drive:* Technical mechanics of centralization and single points of failure.
+2. *Architecture of Centralisation:* Dissecting central architectural dependencies (e.g., PhonePe-Yes Bank collapse example).
+3. *Single Points of Failure & Censorship:* Architectural causes behind system outages (e.g., AWS) and platform bans.
+4. *Decentralised Systems: Wikipedia & BitTorrent:* Pre-blockchain decentralized models.
+5. *Benefits of Decentralisation:* Cost/speed comparisons (e.g., Western Union ₹1,200 vs. Blockchain ₹8).
+6. *Distributed Systems as Blockchain Foundation:* Bridging distributed systems theory and blockchain trust mechanics.
+
+
+* **Module 3: Blockchain Fundamentals (9 lessons)**
+1. *What is a Blockchain?:* From village ration shops to Satoshi's whitepaper.
+2. *Blocks, Chains & Transactions:* Block structure, chaining mechanics, and Bitcoin cash vs. Ethereum account models.
+3. *Cryptographic Hashing:* SHA-256 and Keccak-256 implementation and inner workings.
+4. *Immutability & Tamper-Evidence:* Data persistence mechanisms, promises, and limitations.
+5. *Transparency & Pseudo-Anonymity:* Differences between anonymity, pseudo-anonymity, and full transparency.
+6. *Consensus Mechanisms:* Deep dive into 8 algorithms (Proof of Work, Proof of Stake, MST's Trika POSA, etc.).
+7. *Forks & Network Evolution:* Upgrades, soft/hard forks, and network splits (e.g., ETH/ETC).
+8. *Merkle Trees & State Management:* Millisecond verification via Merkle trees and Ethereum single-hash state storage.
+9. *Hands-On: Build a Paper Blockchain:* Constructing a 3-block chain by hand, hashing, and browser simulation.
+
+
+* **Module 4: Cryptography (7 lessons)**
+1. *Public Key Cryptography:* Asymmetric keys, wallet mechanics, and Web3 identity.
+2. *Digital Signatures:* ECDSA, Ed25519, and Schnorr signature verification.
+3. *Hash Functions & Merkle Proofs:* Converting 10,000 pages to a 64-character fingerprint and light client verification.
+4. *Zero Knowledge Proofs:* Proving facts without revealing underlying private data.
+5. *Commitments & VRFs:* Cryptographic commitments and Verifiable Random Functions for gaming integrity.
+6. *Post-Quantum Cryptography:* Mitigating quantum threats to RSA/ECC/ECDSA via NIST standards.
+7. *Practical: Build a Wallet CLI:* Lab creating a CLI wallet from scratch (key generation, address derivation, signing, and verification).
+
+
+
+---
+
+#### Phase 2: The MST Difference & Developer Tooling (~20 hrs | 4 Modules)
+
+* **Module 1: Cryptocurrency & Tokenomics (6 lessons):** Monetary history, Bitcoin, wallet security, token standards (ERC-20, ERC-721, ERC-1155), gas dynamics, and stablecoins.
+* **Module 2: Why MST Blockchain (5 lessons):** Addressing multi-chain trade-offs, developer friction, and MST's architectural pillars.
+* **Module 3: MST Architecture & Protocol Deep Dive (8 lessons):** Hybrid L1 architecture, EVM compatibility, Trika POSA, SARAL protocol (SSO), WASMify (ZK-bridge), gaming protocols, and BridgeKey wallet.
+* **Module 4: Development Environment & Solidity (8 lessons):** Tooling setup (Node, Git, Hardhat), Solidity syntax, storage optimization, visibility, interfaces, and deploying a first dApp.
+
+---
+
+#### Phase 3: Core Project Starts - Building Your Startup MVP (~70 hrs | 9 Modules)
+
+* Intensive practical phase dedicated to building, testing, and deploying the student's core startup MVP.
+
+---
+
+#### Phase 4: From Developer to Funded Founder/Intern (~22 hrs | 4 Modules)
+
+* Focuses on grant acquisition, pitch preparation, career paths, and live Demo Day presentations to investors.
+
+---
+
+### Evaluation Weightage Breakdown
+
+| Category | Weightage | Description |
+| --- | --- | --- |
+| **MCQ + True/False** | **35%** | Concept recall with mandatory written justification. |
+| **Coding & Completion** | **30%** | Solidity coding exercises, debugging labs, and testnet deployments. |
+| **Descriptive & Design** | **15%** | Technical scenario analysis, architecture diagrams, and design essays. |
+| **Projects & Practicals** | **12%** | GitHub repositories, security audit reports, NFT minting, and capstone work. |
+| **Presentations & Pitches** | **8%** | Slide deck preparation, live pitching, and Demo Day presentations. |
+
+---
+
+### Post-Graduation Credentials & Support
+
+* **On-Chain Credential:** Verifiable completion certificate recorded directly on the MST Blockchain.
+* **Grant Funding Path:** Qualified capstone projects pitch at Demo Day for MST ecosystem grants up to **$50,000**.
+* **Academic Integration:** Structured syllabus designed to align with college/university standards.
+* **Operating Entity:** Masterstroke Academy is operated by **Masterstroke Technosoft Private Limited**.

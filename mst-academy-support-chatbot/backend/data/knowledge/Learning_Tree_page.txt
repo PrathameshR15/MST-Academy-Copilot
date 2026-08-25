@@ -1,0 +1,50 @@
+Here is the structure, key metrics, and interactive user flow for the current [Learning Tree](https://masterstroke.academy/learn) page, without the specific course content details:
+
+---
+
+### Page Overview & Navigation Function
+
+The **Learning Tree** (`[https://masterstroke.academy/learn](https://masterstroke.academy/learn)`) serves as the central interactive roadmap and student dashboard within Masterstroke Academy. Its core function is to visualize the structured learning path and guide students through their course progression step-by-step.
+
+---
+
+### Core Page Elements & Metrics
+
+* **Progression Roadmap Header:** Displays the high-level course architecture (**4 Phases · 21 Modules**).
+* **Gamification & Engagement Elements:**
+* **XP & Streak Counter:** Tracks student learning streaks and accumulated experience points.
+* **Leaderboard Link:** (`[https://masterstroke.academy/learn](https://masterstroke.academy/learn)` $\rightarrow$ Leaderboard) Displays student rankings based on XP and course completion.
+
+
+* **Navigation Header:**
+* **User Profile Menu:** Displays account info for the logged-in user.
+* **"Start Learning" Button:** Quick-action shortcut to jump directly into the active lesson.
+* **"Events" Button:** Navigates to live community events, webinars, or Demo Day schedules.
+* **"Home" Button:** Directs back to the main academy overview landing page.
+
+
+
+---
+
+### Interactive Navigation Paths & User Flow
+
+1. **Phase Cards (Phase 1 through Phase 4)**
+* **Action:** Clicking on any Phase card (e.g., *Phase 1: Foundation*, *Phase 2: Tooling*, *Phase 3: Build*, or *Phase 4: Launch*).
+* **Path:** `Learning Tree` $\rightarrow$ `Expanded Module Drawer / View`
+* **Function:** Unfolds the list of specific modules inside that phase along with progress indicators.
+
+
+2. **Module Cards & Lessons**
+* **Action:** Tapping an open module inside a phase.
+* **Path:** `Expanded Phase` $\rightarrow$ `Lesson Viewer & Assessment View`
+* **Function:** Opens the specific lesson interface, video/reading material, and coding environment/quizzes.
+
+
+3. **Leaderboard Button**
+* **Action:** Clicking the **Leaderboard** button.
+* **Path:** `Learning Tree` $\rightarrow$ `Leaderboard Dashboard`
+* **Function:** Shows global student rankings, XP points, and streak standings.
+
+
+4. **Footer Links**
+* Includes legal, administrative, and contact links: **Refund Policy**, **Terms & Conditions**, **Privacy Policy**, and **Contact Us**.

@@ -1,0 +1,63 @@
+Here is the scraped data from the current page along with the interactive navigation paths:
+
+---
+
+### Page Metadata & Navigation Controls
+
+* **Page Title:** [Leaderboard | Masterstroke Academy](https://masterstroke.academy/leaderboard)
+* **User Profile:** `V Vipul`
+* **Header Controls & Buttons:**
+* **Brand Logo Link:** [Masterstroke Academy](https://masterstroke.academy/)
+* **User Profile Link:** [V Vipul Account Details](https://masterstroke.academy/dashboard/non-validator#profile)
+* **Start Learning Button:** [Start Learning](https://masterstroke.academy/learn)
+* **Events Button:** `Events`
+* **Theme Toggle Switch:** Dark / Light mode toggle
+* **Navigation Drawer Menu:** Menu icon (`≡`)
+
+
+
+---
+
+### Leaderboard Top Performers (Podium)
+
+1. **Rank 1:** Anujaa Modhave — **20.33%** Progress
+2. **Rank 2:** Abhishek Kumar — **4.88%** Progress
+3. **Rank 3:** Arun Kumar — **0.00%** Progress
+
+---
+
+### Full Student Rankings List
+
+| Rank | Student Name | Course Progress | Daily Streak |
+| --- | --- | --- | --- |
+| **#1** | Anujaa Modhave | **20.33%** | 2 days |
+| **#2** | Abhishek Kumar | **4.88%** | 2 days |
+| **#3** | Arun Kumar | **0.00%** | 0 days |
+| **#4** | PALAKANI MURALIDHAR YADAV | **0.00%** | 0 days |
+| **#5** | Kuldeep singh | **0.00%** | 0 days |
+| **#6** | Sarthak | **0.00%** | 0 days |
+| **#7** | sarthak nimje | **0.00%** | 0 days |
+| **#8** | Harjinder Kaur | **0.00%** | 0 days |
+| **#9** | NISHIKANTA PAL | **0.00%** | 0 days |
+| **#10** | Byju E S | **0.00%** | 0 days |
+
+---
+
+### Interactive UI Elements & Navigation Paths
+
+| UI Element / Button | Click Action Path / Target Destination | Function |
+| --- | --- | --- |
+| **Masterstroke Logo** | [Leaderboard](https://masterstroke.academy/leaderboard) $\rightarrow$ [Masterstroke Home](https://masterstroke.academy/) | Returns to the main academy home page. |
+| **"V Vipul" Account** | [Leaderboard](https://masterstroke.academy/leaderboard) $\rightarrow$ [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) | Opens student profile details and account configuration. |
+| **"Start Learning" Button** | [Leaderboard](https://masterstroke.academy/leaderboard) $\rightarrow$ [Learning Tree](https://masterstroke.academy/learn) | Redirects to active course modules to resume studying and earn progress/XP. |
+| **"Climb the leaderboard - start learning"** | [Leaderboard](https://masterstroke.academy/leaderboard) $\rightarrow$ [Learning Tree](https://masterstroke.academy/learn) | Direct CTA to jump into active modules and increase ranking. |
+| **"Events" Button** | [Leaderboard](https://masterstroke.academy/leaderboard) $\rightarrow$ Community Events View | Displays upcoming workshops, Q&A sessions, and hackathons. |
+| **Footer Legal Links** | [Refund Policy](https://masterstroke.academy/refund-policy) · [Terms & Conditions](https://masterstroke.academy/terms-conditions) · [Privacy Policy](https://masterstroke.academy/privacy-policy) · [Contact Us](https://masterstroke.academy/contact-us) | Loads respective legal, policy, and support pages. |
+
+---
+
+### Footer Information
+
+* **Legal & Support Links:** [Refund Policy](https://masterstroke.academy/refund-policy) • [Terms & Conditions](https://masterstroke.academy/terms-conditions) • [Privacy Policy](https://masterstroke.academy/privacy-policy) • [Contact Us](https://masterstroke.academy/contact-us)
+* **Copyright Notice:** © 2026 Masterstroke Academy. All Rights Reserved.
+* **Operating Entity:** *Operated by Masterstroke Technosoft Private Limited.*

@@ -1,0 +1,104 @@
+Here is the master navigation and functional path guide for all major sections, buttons, and features across the Masterstroke Academy platform:
+
+---
+
+### 1. Dashboard & Account Operations
+
+* **Access Profile Settings & Update Personal Info**
+* **Path:** `Dashboard` $\rightarrow$ `Sidebar: Profile` $\rightarrow$ `Edit Fields (Name, Phone, Socials, Wallet)` $\rightarrow$ `[Save Changes]`
+
+
+* **Upload / Update Profile Photo or Resume**
+* **Path:** `Dashboard` $\rightarrow$ `Sidebar: Profile` $\rightarrow$ `[Upload Photo]` or `[Choose File]` (under CV section)
+
+
+* **View Overview Metrics & Daily Progress**
+* **Path:** `Dashboard` $\rightarrow$ `Sidebar: Overview` $\rightarrow$ View Streak / Modules / XP Stats
+
+
+* **Check Live Assessment Submissions & Mentor Grades**
+* **Path:** `Dashboard` $\rightarrow$ `Sidebar: Submission Progress` $\rightarrow$ View Live Review Queue
+
+
+* **Sign Out of Session**
+* **Path:** `Dashboard` $\rightarrow$ `Sidebar: Sign Out` $\rightarrow$ Login Screen
+
+
+
+---
+
+### 2. Learning Tree & Curriculum Progression
+
+* **Access Main Learning Roadmap**
+* **Path:** `Header / Sidebar` $\rightarrow$ `[Start Learning]` or `[Learning Tree]` $\rightarrow$ 4-Phase Architecture
+
+
+* **Navigate Between Curriculum Phases**
+* **Path:** `Learning Tree` $\rightarrow$ Click Phase Card (`Phase 1`, `Phase 2`, `Phase 3`, or `Phase 4`) $\rightarrow$ Phase Modules View
+
+
+* **Open & View Lessons / Submodules**
+* **Path:** `Learning Tree` $\rightarrow$ Select Phase $\rightarrow$ Click Module Card $\rightarrow$ Expanded Submodules Drawer $\rightarrow$ Select Submodule
+
+
+* **Jump to Active / Latest Uncompleted Lesson**
+* **Path:** `Header` $\rightarrow$ `[Start Learning]` $\rightarrow$ Direct Lesson Workspace
+
+
+* **Reset Roadmap Filter / Return to Course Root**
+* **Path:** `Breadcrumb Bar` $\rightarrow$ Click `[Home]` $\rightarrow$ Full Course Overview
+
+
+
+---
+
+### 3. Gamification, Community & Leaderboard
+
+* **View Global Rankings & XP Standings**
+* **Path:** `Header / Dashboard` $\rightarrow$ `[Leaderboard]` $\rightarrow$ Top Podium & Student Rankings
+
+
+* **Access Live Events & Webinars**
+* **Path:** `Header` $\rightarrow$ `[Events]` $\rightarrow$ Live Sessions & Demo Day Schedule
+
+
+* **Claim Course Completion Certificate** *(Requires 100% Submodule Progress)*
+* **Path:** `Dashboard: Overview` $\rightarrow$ `[Claim Certificate]` $\rightarrow$ On-Chain Certificate Modal
+
+
+
+---
+
+### 4. Referral Program & Earnings
+
+* **Generate & Copy Referral Link / Code**
+* **Path:** `Dashboard` $\rightarrow$ `Sidebar: Refer & Earn` $\rightarrow$ `[Copy Referral Code]` / `[Copy Link]`
+
+
+* **Set Self / Referee Discount Allocation**
+* **Path:** `Dashboard` $\rightarrow$ `Sidebar: Refer & Earn` $\rightarrow$ Adjust Discount $\%$ $\rightarrow$ `[Update]`
+
+
+* **Withdraw Earned Referral Commissions**
+* **Path:** `Dashboard` $\rightarrow$ `Sidebar: Refer & Earn` $\rightarrow$ `[Request Withdrawal]`
+
+
+
+---
+
+### 5. Global Navigation & Site-Wide Functions
+
+* **Return to Public Landing Page**
+* **Path:** Top-Left `[Masterstroke Logo]` $\rightarrow$ Academy Main Landing Page
+
+
+* **Toggle Visual Theme**
+* **Path:** Header Control Bar $\rightarrow$ Click `[Sun/Moon Icon]` $\rightarrow$ Toggle Light/Dark Mode
+
+
+* **Toggle Navigation Drawer (Mobile / Compact View)**
+* **Path:** Header Control Bar $\rightarrow$ Click `[≡ Menu Icon]` $\rightarrow$ Expand/Collapse Navigation Drawer
+
+
+* **Access Legal Policy & Support Pages**
+* **Path:** Page Footer $\rightarrow$ Click `[Refund Policy]`, `[Terms & Conditions]`, `[Privacy Policy]`, or `[Contact Us]`

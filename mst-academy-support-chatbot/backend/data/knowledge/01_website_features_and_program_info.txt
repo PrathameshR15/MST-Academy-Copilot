@@ -1,0 +1,61 @@
+MASTERSTROKE ACADEMY — ADDITIONAL SUPPORT KNOWLEDGE
+Purpose: New information discovered on the live public website that was not already covered by the supplied support KB.
+
+SOURCE: https://masterstroke.academy/
+REVIEW DATE: 2026-08-25
+
+1. PUBLIC PROGRAM POSITIONING
+- Masterstroke Academy describes itself as a structured, college-integrated programme.
+- The public homepage describes the experience as interactive lessons, live code, rigorous assessments, and a path from cryptography to funded founder.
+- Homepage programme metrics: 4 Phases, 21 Modules, 123 SubModules, 130+ Hours.
+- The public homepage has a “Fellowship Enrollment” section.
+- The homepage advertises “Lifetime access + internship + rewards”.
+- Students can choose a track during fellowship enrollment.
+- The homepage says students can build a streak and compete on the leaderboard for PPO opportunities.
+- The homepage says top performers can receive fellowship bonuses.
+- Leaderboard ranking is described as updating automatically from progress in the Learning Tree.
+
+2. PLATFORM FEATURES
+- Interactive Learning Tree: visual roadmap from fundamentals to advanced topics.
+- Full-screen assessments: immersive/lockdown-mode assessments intended to validate understanding.
+- Live Code Execution: students can write and execute Solidity, JavaScript and other code directly in the browser with instant feedback.
+- Progress Tracking: completion tracking across all 4 phases and 21 modules with detailed progress analytics.
+- Blockchain Focus: the platform is designed around blockchain development, DeFi, NFTs and DAOs.
+- Certificate on Completion: the homepage advertises a verifiable certificate after completing the full curriculum.
+- 70% pass rule: the next lesson is unlocked only after the required understanding/pass condition is met.
+- Live on MST Chain: the homepage says students can deploy and test on an EVM-compatible hybrid Layer-1 built for India.
+- College integrated: the structured syllabus is described as aligned with academic and industry standards.
+
+3. PUBLIC TECHNOLOGY/DOMAIN AREAS
+The homepage publicly highlights:
+- Solidity
+- DeFi
+- NFTs
+- DAOs
+- Smart Contracts
+- Cryptography
+- Consensus
+- EVM
+- Hardhat
+- ZK Proofs
+- RWA
+- MST Chain
+- Token Standards
+- Layer 2
+- Web3.js
+- Security Audits
+
+4. SUPPORT CHATBOT USE
+The chatbot may use these facts for high-level questions such as:
+- “What does Masterstroke Academy offer?”
+- “Does the platform support live coding?”
+- “What technologies are covered?”
+- “Is the programme college integrated?”
+- “What is the 70% rule?”
+- “Does Masterstroke offer internship/rewards?”
+- “What is MST Chain in the context of the Academy?”
+
+Do not promise a specific internship, PPO, fellowship bonus, reward, or track benefit to a particular student unless authorized live data confirms eligibility.
+
+SOURCE PAGE NOTES
+- Public homepage only; this file intentionally avoids duplicating the detailed curriculum/navigation already present in the supplied KB.

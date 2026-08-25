@@ -1,0 +1,96 @@
+MASTERSTROKE ACADEMY — ADDITIONAL SUPPORT KNOWLEDGE
+Purpose: New refund, cancellation, payment-failure and service-access information found on the live Refund Policy page.
+
+SOURCE: https://masterstroke.academy/refund-policy
+POLICY EFFECTIVE/UPDATED: January 2025
+REVIEW DATE: 2026-08-25
+
+1. NATURE OF SERVICES
+The Academy describes its services as digital and may include:
+- Digital educational content
+- Online learning modules
+- Assessments and examinations
+- Blockchain-related educational programmes
+- Validator learning pathways
+- On-chain certifications
+- Ecosystem participation opportunities
+- Reward-based learning programmes
+- Future educational/ecosystem services
+- No physical products are shipped.
+
+2. DIGITAL PURCHASE ACKNOWLEDGEMENT
+- Purchases are digital in nature.
+- Access may be granted immediately after successful payment.
+- Educational content becomes available electronically.
+- Digital products cannot be physically returned.
+- Materials may be accessed/consumed immediately after activation.
+
+3. REFUNDS
+- Purchases are generally final.
+- Refunds are generally not provided once access to the purchased service has been granted.
+- Users are advised to review course descriptions, eligibility requirements and programme details before purchase.
+- Non-refundable categories include course purchases, learning tracks, validator programmes, student/professional programmes, certification programmes, premium content access, digital educational resources, downloadable materials, membership plans, reward-based educational programmes and other digital services.
+
+4. REASONS THAT DO NOT BY THEMSELVES CREATE A REFUND
+No refund is provided solely because:
+- The user changes their mind.
+- The user stops learning.
+- The user does not complete the course.
+- The user fails an assessment.
+- The user becomes ineligible for certification.
+- The user does not participate actively.
+- The user does not use available access.
+
+5. CANCELLATION
+- Users may stop using the platform at any time.
+- Purchased courses cannot be cancelled after enrollment.
+- Access remains active according to the purchased plan.
+- No partial or pro-rata refunds are provided.
+- Cancellation does not by itself create a refund entitlement.
+
+6. DUPLICATE PAYMENTS
+If the same transaction is charged more than once because of a technical/payment-processing issue:
+- The user should notify Academy Support promptly.
+- After verification, the duplicate transaction may be reversed or the excess amount may be refunded through the original payment method.
+- Verification may require transaction references, payment screenshots or other supporting documentation.
+
+7. PAYMENT SUCCESSFUL BUT ACCESS NOT GRANTED
+If payment succeeds but the purchased course/programme/service is not activated:
+- Contact Academy Support.
+- Provide registered email address.
+- Provide transaction ID.
+- Provide payment screenshot.
+- Provide relevant account details.
+- After verification, the Academy may activate the purchased service or coordinate with the payment provider.
+- The policy says support requests should ideally be submitted within 7 days of the transaction.
+
+8. TECHNICAL/SERVICE INTERRUPTIONS
+Temporary interruptions can occur due to:
+- Server maintenance
+- Network issues
+- Payment gateway downtime
+- Blockchain congestion
+- Wallet integration issues
+- Third-party service disruptions
+Such interruptions do not automatically qualify for refunds.
+
+9. REWARDS/CERTIFICATION
+- Enrollment does not guarantee rewards.
+- Enrollment does not automatically guarantee certification.
+- Rewards can have eligibility requirements.
+- Certification may require successful completion of modules and assessments.
+- Validator participation may require additional qualifications.
+- Failure to meet eligibility requirements is not by itself grounds for a refund.
+
+10. WALLET-RELATED RESPONSIBILITY
+Some services may require a compatible Web3 wallet and valid wallet address.
+Users are responsible for wallet accuracy and security. The Academy states it is not responsible for losses caused by incorrect wallet addresses, wallet misconfiguration, loss of credentials/private keys/recovery phrases, unsupported wallets, third-party wallet failures, or blockchain issues outside its control.
+Where blockchain assets are distributed, users must provide a compatible wallet. Assets sent to incorrect/incompatible addresses may not be recoverable.
+
+11. SUPPORT CONTACT FROM POLICY
+Email: support@masterstroke.academy
+Phone: +91 9112228906
+Address: Kohinoor World Towers, Old Pune-Mumbai Highway, Opposite Empire Estate, Pimpri, Pune – 411018, Maharashtra, India.
+
+CHATBOT RULE
+For a user-specific payment/access question, do not infer or invent payment status. Use authorized live account/payment data when available; otherwise direct the user to Academy Support.

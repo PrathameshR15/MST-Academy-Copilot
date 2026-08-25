@@ -1,0 +1,78 @@
+Here is the complete scraped data from the current page along with the interactive button navigation paths:
+
+---
+
+### Page Metadata & Header Controls
+
+* **Page Title:** [Learning Tree - Interactive Blockchain Curriculum | Masterstroke Academy](https://masterstroke.academy/learn)
+* **User Profile:** `V Vipul`
+* **Header Buttons & Links:**
+* **Brand Logo Link:** [Masterstroke Academy](https://masterstroke.academy/)
+* **User Profile Link:** [V Vipul Account Details](https://masterstroke.academy/learn)
+* **Start Learning Button:** [Start Learning Action](https://masterstroke.academy/learn)
+* **Events Button:** `Events`
+* **Theme Toggle:** Dark/Light Mode switch icon
+* **Navigation Drawer Toggle:** Menu icon (`≡`)
+
+
+
+---
+
+### Academy Roadmap & Active Progress
+
+* **Program Scale:** 4 Phases · 21 Modules · Your Path
+* **Instructional Guide:** *"Tap a phase → pick a module → open lessons."*
+* **Breadcrumb Navigation:** `Home` $\rightarrow$ `The Internet, Decentralisation & Blockchain Foundation`
+* **Gamification Controls:**
+* **XP & Streak:** Stats display
+* **Leaderboard Button:** [Leaderboard View](https://masterstroke.academy/learn)
+
+
+
+---
+
+### Visible Modules (Phase 1: Foundation)
+
+* **Module 1: MODULE 1: THE INTERNET REVOLUTION – FROM WEB 1.0 TO WEB 3.0**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 2: MODULE 2: CENTRALISATION VS DECENTRALISATION**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 3: MODULE 3: BLOCKCHAIN FUNDAMENTALS**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 4: MODULE 4 : CRYPTOGRAPHY**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+
+---
+
+### Interactive Button Navigation Paths
+
+| Button / UI Element | Click Action Path / Target Destination | Function |
+| --- | --- | --- |
+| **Brand Logo** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Masterstroke Home](https://masterstroke.academy/) | Navigates back to the main academy landing page. |
+| **User Profile ("V Vipul")** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ User Profile Page | Opens account settings, subscription info, and student identity. |
+| **"Start Learning" Button** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Active Lesson View](https://masterstroke.academy/learn) | Directs to the latest uncompleted lesson to resume study immediately. |
+| **"Events" Button** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Events Modal / Dashboard | Opens scheduled webinars, live Q&A sessions, and Demo Day dates. |
+| **"Leaderboard" Button** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Leaderboard Standings](https://masterstroke.academy/learn) | Shows overall student rankings, total XP, and active streak counts. |
+| **Breadcrumb "Home"** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Main Course Directory | Resets breadcrumb filters to show all 4 phases. |
+| **Module Cards (1–4)** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Module Lesson Drawer | Expands selected module to reveal individual lesson links and quizzes. |
+| **Footer Links** | [Refund Policy](https://masterstroke.academy/learn) · [Terms & Conditions](https://masterstroke.academy/learn) · [Privacy Policy](https://masterstroke.academy/learn) · [Contact Us](https://masterstroke.academy/learn) | Loads respective administrative, legal, and support pages. |
+
+---
+
+### Footer Information
+
+* **Copyright Notice:** © 2026 Masterstroke Academy. All Rights Reserved.
+* **Operating Entity:** *Operated by Masterstroke Technosoft Private Limited.*
+* **Legal Links:** [Refund Policy](https://masterstroke.academy/learn) • [Terms & Conditions](https://masterstroke.academy/learn) • [Privacy Policy](https://masterstroke.academy/learn) • [Contact Us](https://masterstroke.academy/learn)

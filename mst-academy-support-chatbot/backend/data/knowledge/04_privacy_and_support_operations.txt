@@ -1,0 +1,227 @@
+MASTERSTROKE ACADEMY — ADDITIONAL SUPPORT KNOWLEDGE
+Purpose: New privacy, data handling, security and support-contact information found on the live Privacy Policy and Contact pages.
+
+SOURCES:
+https://masterstroke.academy/privacy-policy
+https://masterstroke.academy/contact-us
+REVIEW DATE: 2026-08-25
+
+1. CUSTOMER SUPPORT
+Support email:
+support@masterstroke.academy
+
+Support phone:
+9112228906
+
+Support hours:
+Monday to Saturday, 10:00 AM to 6:00 PM IST
+Closed Sundays and Public Holidays.
+
+Response target:
+The support team aims to respond within 24 to 48 business hours. Resolution time may vary based on issue complexity and information supplied.
+
+2. SUPPORT CATEGORIES
+The contact page says support can assist with:
+
+COURSE ACCESS
+- Enrollment issues
+- Course unlocking problems
+- Learning progress concerns
+- Module access issues
+- Assessment-related queries
+- AI assessment review requests
+
+PAYMENTS
+- Payment confirmation issues
+- Duplicate transactions
+- Failed transactions
+- Invoice requests
+- Payment verification
+
+CERTIFICATIONS
+- Certificate eligibility
+- Certificate issuance
+- On-chain certification verification
+- Wallet-linked certification issues
+
+WEB3 WALLET & REWARDS
+- Web3 wallet integration
+- Wallet linking issues
+- Reward distribution concerns
+- Blockchain verification support
+
+VALIDATOR & ECOSYSTEM PROGRAMMES
+- Validator learning tracks
+- Ecosystem participation
+- Community initiatives
+- Technical onboarding assistance
+
+3. WHAT TO INCLUDE WHEN REPORTING A TECHNICAL ISSUE
+Users should provide:
+- Registered email address
+- Transaction ID, if applicable
+- Wallet address, if applicable
+- Screenshots of the issue
+- Device and browser details
+
+4. OFFICIAL COMMUNICATION / SECURITY WARNING
+Users should use authorized Academy email addresses and official platform channels.
+Never share:
+- Passwords
+- Private keys
+- Recovery phrases
+- Seed phrases
+- OTPs
+- Other sensitive credentials
+
+Masterstroke Academy states it will never request:
+- Wallet recovery phrase
+- Seed phrase
+- Private keys
+- Banking PIN
+- Account password
+through email, phone calls, messaging platforms or other communication channels.
+
+5. PRIVACY — DATA USERS MAY PROVIDE
+The Privacy Policy says the Academy may collect:
+Identity:
+- Full name
+- Username
+Profile:
+- Profile photograph
+Contact:
+- Email address
+- Mobile number
+Student verification:
+- College ID card
+- Student verification information
+Account:
+- Login credentials
+- Passwords
+- Account preferences
+Wallet:
+- Web3 wallet address
+- Blockchain wallet address
+- Wallet interaction records
+- Reward distribution records
+Educational:
+- Course enrollments
+- Module completion status
+- Assessment attempts
+- Assessment scores
+- Learning progress
+- Certification eligibility status
+- Certification records
+Communications:
+- Email communications
+- Support requests
+- Feedback
+- Survey responses
+- Customer service interactions
+
+6. AUTOMATICALLY COLLECTED TECHNICAL INFORMATION
+The Privacy Policy lists:
+- IP address
+- Browser information
+- Device information
+- Operating system
+- Login history
+- Access times
+- Pages visited
+- Platform usage information
+- Error logs
+- Security logs
+
+7. BLOCKCHAIN DATA
+Certain information may be permanently recorded on-chain, including:
+- Wallet addresses
+- Certification records
+- Verification records
+- Reward distribution records
+- Validator participation records
+
+Blockchain records may be publicly visible, independently verifiable, immutable and permanently stored.
+
+8. WEB3 WALLET PRIVACY/SECURITY
+Wallet addresses can be associated with Academy activities.
+Transactions may be publicly visible on blockchain explorers.
+Reward distributions can be traceable on-chain.
+Certification records may be linked to wallet addresses.
+Users remain responsible for protecting wallet credentials, seed phrases, recovery phrases and private keys.
+The Academy states it will never request private keys or recovery phrases.
+
+9. DATA USE
+Information may be used to:
+- Create/manage accounts
+- Provide course access
+- Deliver educational content
+- Track progress
+- Conduct assessments
+- Issue certifications
+- Verify eligibility
+- Enable reward distribution
+- Facilitate validator pathways
+- Record achievements
+- Manage participation programmes
+- Respond to support inquiries
+- Resolve technical issues
+- Provide account assistance
+- Send important notifications
+- Detect fraud
+- Prevent abuse
+- Monitor suspicious activity
+- Protect platform integrity
+- Meet legal obligations and respond to lawful requests
+
+The Privacy Policy notes that assessments may be evaluated using AI and that AI evaluation can occasionally make mistakes.
+
+10. INFORMATION SHARING
+The Privacy Policy states that Masterstroke Academy does not sell personal information.
+Information may be shared when necessary for legitimate business purposes, including with:
+- Hosting/infrastructure providers
+- Technical support providers
+- Security monitoring providers
+- Communication providers
+- Payment service providers
+- Legal authorities where required by law
+- Parties involved in a merger/acquisition/restructuring/asset transfer
+
+The Academy states it does not store complete payment card credentials, banking PINs or similar sensitive payment-authentication information.
+
+11. DATA RETENTION
+Information may be retained as reasonably necessary to:
+- Provide services
+- Maintain educational records
+- Verify certifications
+- Administer rewards
+- Meet legal obligations
+- Resolve disputes
+- Protect platform security
+Some blockchain records may remain permanently available.
+
+12. ACCOUNT DELETION LIMITATIONS
+Users may contact the Academy about account-related requests.
+However, certification records, reward records and blockchain transactions may remain permanently stored on-chain and generally cannot be deleted.
+Information may be removed from Academy internal systems where legally permissible while blockchain records remain unaffected.
+
+13. USER RESPONSIBILITIES
+Users are responsible for:
+- Account security
+- Password protection
+- Wallet credential protection
+- Accurate information
+- Keeping contact information updated
+Users must not share passwords, recovery phrases or private keys.
+
+14. PRIVACY CONTACT
+Email: support@masterstroke.academy
+Phone: 9112228906
+Address:
+T3, Kohinoor World Towers,
+Old Pune-Mumbai Highway,
+Opposite Empire Estate,
+Pimpri, Pune – 411018,
+Maharashtra, India.
+
+CHATBOT RULE
+Never expose private/personal data from the KB. Never claim to know a user's private status from static documents. Use authenticated live data where available.

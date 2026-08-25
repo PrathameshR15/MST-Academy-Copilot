@@ -1,0 +1,92 @@
+Here is the scraped data from the current page along with the interactive navigation paths:
+
+---
+
+### Page Metadata & Navigation Controls
+
+* **Page Title:** [Masterstroke Academy | Personal Learning Command Center](https://masterstroke.academy/dashboard/non-validator)
+* **User Profile:** `Vipul`
+* **Header Controls & Buttons:**
+* **Brand Logo Link:** [Masterstroke Academy Home](https://masterstroke.academy/)
+* **User Profile Link:** [V Vipul Account Details](https://masterstroke.academy/dashboard/non-validator#profile)
+* **Start Learning Button:** [Start Learning](https://masterstroke.academy/learn)
+* **Events Button:** `Events`
+* **Theme Toggle Switch:** Dark / Light mode toggle
+* **Navigation Drawer Menu:** Menu icon (`≡`)
+
+
+
+---
+
+### Personal Command Center & Progress Metrics
+
+* **Welcome Message:** *"Welcome back, Vipul 👋"*
+* **Current Status:** Ahead of **0%** of learners this week
+* **Key Stats:**
+* **Streak:** `0d streak`
+* **Current Phase:** Phase 1 (`The Internet, Decentralisation & Blockchain Foundation`)
+* **Rank:** `Rank #0`
+* **XP Progress:** **0% Complete** (100% to go)
+* **Completion Rate:** **0%** (0/21 Modules)
+* **Submodule Completion:** **0 / 123** (0%)
+* **Average Score:** `-` (0/2100 Total Score)
+* **Study Time:** `0h`
+* **Percentile:** `Top 0%`
+
+
+* **Certificate Status:** Locked (0/123 submodules completed, 123 remaining to unlock `Claim Certificate`).
+
+---
+
+### Learning Journey Phases
+
+* **Phase 1:** [The Internet, Decentralisation & Blockchain Foundation](https://masterstroke.academy/learn) — **0%**
+* **Phase 2:** [The MST Difference & Developer Tooling](https://masterstroke.academy/learn) — **0%**
+* **Phase 3:** [Core Project Starts - Building Your Startup MVP](https://masterstroke.academy/learn) — **0%**
+* **Phase 4:** [From Developer to Funded Founder/Intern - Grants, Pitch & Career](https://masterstroke.academy/learn) — **0%**
+
+---
+
+### Quick Actions & Achievements
+
+* **What To Do Next Actions:**
+* [Continue Module 1](https://masterstroke.academy/learn)
+* [Open Learning Roadmap](https://masterstroke.academy/learn)
+* [Revise Blockchain](https://masterstroke.academy/learn)
+* [View Leaderboard](https://masterstroke.academy/leaderboard)
+
+
+* **Badges & Achievements:**
+* 🚀 *First Steps:* Complete your first lesson
+* 🔥 *On Fire:* 3-day learning streak
+* 📚 *Module Master:* Complete 5 modules
+* ⭐ *High Scorer:* Score 80%+ on an assessment
+* 🌐 *Foundation Done:* Complete Phase 1
+* 🏆 *Academy Graduate:* Complete all 21 modules
+
+
+
+---
+
+### Community Ranking & Status
+
+* **Rank:** `#0` (Top 0% of academy learners)
+* **Modules Completed:** 0 / 21
+* **Current Module:** *The Internet & Web Evolution*
+* [View Full Leaderboard](https://masterstroke.academy/leaderboard)
+* [Continue on Learning Roadmap](https://masterstroke.academy/learn)
+
+---
+
+### Interactive UI Elements & Navigation Paths
+
+| UI Element / Button | Click Action Path / Target Destination | Function |
+| --- | --- | --- |
+| **Masterstroke Logo** | [Command Center](https://masterstroke.academy/dashboard/non-validator) $\rightarrow$ [Masterstroke Home](https://masterstroke.academy/) | Navigates to the main academy home page. |
+| **"V Vipul" Account** | [Command Center](https://masterstroke.academy/dashboard/non-validator) $\rightarrow$ [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) | Opens student profile details and user settings. |
+| **"Start Learning" Button** | [Command Center](https://masterstroke.academy/dashboard/non-validator) $\rightarrow$ [Learning Tree](https://masterstroke.academy/learn) | Directs to the active learning tree/lesson view to resume studies. |
+| **"Claim Certificate"** | [Command Center](https://masterstroke.academy/dashboard/non-validator) $\rightarrow$ Certificate Modal | Disabled until 123/123 submodules are completed; unlocks on-chain cert. |
+| **Phase Cards (1–4)** | [Command Center](https://masterstroke.academy/dashboard/non-validator) $\rightarrow$ [Learning Tree](https://masterstroke.academy/learn) | Opens the specific Phase curriculum on the roadmap tree. |
+| **"Continue Module 1"** | [Command Center](https://masterstroke.academy/dashboard/non-validator) $\rightarrow$ [Learning Tree](https://masterstroke.academy/learn) | Jumps directly into Module 1 lesson material. |
+| **"Open Learning Roadmap"** | [Command Center](https://masterstroke.academy/dashboard/non-validator) $\rightarrow$ [Learning Tree](https://masterstroke.academy/learn) | Redirects to the complete 4-phase curriculum tree. |
+| **"View Leaderboard"** | [Command Center](https://masterstroke.academy/dashboard/non-validator) $\rightarrow$ [Leaderboard Standings](https://masterstroke.academy/leaderboard) | Opens student leaderboard rankings, streak standings, and XP counts. |

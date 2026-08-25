@@ -1,0 +1,173 @@
+Here is the lightweight Masterstroke Academy knowledge base with structured sections and navigation-style organization:
+
+---
+
+### Page Metadata & Program Overview
+
+* **Program:** Master Blockchain
+* **Positioning:** Structured, college-integrated blockchain/Web3 programme
+* **Format:** Interactive lessons, live code, assessments
+* **Total Structure:** 4 Phases, 21 Modules, 123 SubModules, 130+ Hours
+* **Access:** Lifetime course access
+* **Additional:** Internship opportunities, rewards, fellowship enrollment
+* **Certificate:** Verifiable certificate on completion
+* **Pass Rule:** 70%
+* **Deployment:** MST Chain testing/deployment
+* **Track Selection:** Students choose a track during fellowship enrollment
+
+---
+
+### Learning Journey Phases
+
+* **Phase 1:** The Internet, Decentralisation & Blockchain Foundation — ~18 hours
+  * The Internet Revolution — Web 1.0 to Web 3.0
+  * Centralisation vs Decentralisation
+  * Blockchain Fundamentals
+  * Cryptography
+
+* **Phase 2:** The MST Difference & Developer Tooling — ~20 hours
+  * Cryptocurrency & Tokenomics
+  * Why MST Blockchain
+  * MST Architecture & Protocol Deep Dive
+  * Development Environment & Solidity
+
+* **Phase 3:** Core Project Starts — Building Your Startup MVP — ~70 hours
+  * Capstone Kickoff
+  * Advanced Solidity & Security
+  * DeFi & RWA Orbitals
+  * NFTs, Gaming & Fairness
+  * Oracles & WASMify
+  * Scaling, L2s & Interoperability
+  * DAOs & Governance
+  * AI, Identity & Privacy
+  * Post-Quantum Security & Final Hardening
+
+* **Phase 4:** From Developer to Funded Founder/Intern — ~22 hours
+  * MST Grant Program
+  * Startup Pitch & Entrepreneurship
+  * Job & Career Launchpad
+  * Final Deployment & Graduation
+
+---
+
+### Technology Areas
+
+* Solidity
+* Smart Contracts
+* EVM
+* Cryptography
+* Consensus
+* Hardhat
+* DeFi
+* NFTs
+* DAOs
+* ZK Proofs
+* RWA
+* MST Chain
+* Token Standards
+* Layer 2
+* Web3.js
+* Security Audits
+
+---
+
+### Academy Platform Features
+
+* Interactive Learning Tree
+* Full-screen / lockdown assessments
+* Live browser code execution
+* Progress tracking
+* Blockchain/Web3 curriculum
+* Verifiable certificate
+* 70% pass requirement
+* MST Chain deployment/testing
+* College-integrated syllabus
+
+---
+
+### Pricing & Enrollment
+
+**IMPORTANT:** All prices are exclusive of GST.
+
+* **OJT**
+  * Regular Price: Rs 9,999
+  * Current Offer Price: Rs 4,999
+  * Enrollment: One-time
+  * Benefits: Lifetime access, OJT certificate, real-world industry project, weekly mentor sessions, guided curriculum, assessments, progress dashboard
+
+* **Validator Fellowship**
+  * Regular Price: Rs 14,999
+  * Current Offer Price: Rs 9,999
+  * Enrollment: One-time
+  * Benefits: Lifetime access, validator learning program, weekly live sessions, progress dashboard, dedicated validator portal, 1 Fraction + daily $MSTC rewards
+
+* **Student Fellowship**
+  * Regular Price: Rs 24,999
+  * Current Offer Price: Rs 19,999
+  * Enrollment: One-time
+  * Benefits: Lifetime access, guaranteed 2-month paid internship, internship certificate, real-world industry project, weekly mentor sessions, 1 Fraction + daily $MSTC rewards
+
+* **Web3 Enthusiast Fellowship**
+  * Regular Price: Rs 24,999
+  * Current Price: Rs 24,999
+  * Enrollment: One-time
+  * Benefits: Lifetime access, guaranteed 2-month paid internship, advanced industry project, internship certificate, weekly mentor sessions, 1 Fraction + daily $MSTC rewards
+
+---
+
+### Pricing Query Rules
+
+* **"What's the course fee?"**
+  * OJT: Rs 4,999 + GST
+  * Validator Fellowship: Rs 9,999 + GST
+  * Student Fellowship: Rs 19,999 + GST
+  * Web3 Enthusiast Fellowship: Rs 24,999 + GST
+
+* Always distinguish current/offer price from regular price.
+* Always state that listed prices are exclusive of GST.
+* Do not invent GST-inclusive totals.
+* Do not invent EMI/installment amounts.
+* Do not invent additional discounts or promotions.
+* For unlisted pricing questions, direct the user to the official current pricing/enrollment interface or Academy Support.
+
+---
+
+### Chatbot Answer Priority
+
+* **1.** Official live pricing/API
+* **2.** Official current pricing page
+* **3.** Verified Academy knowledge base
+* **4.** Academy Support
+
+* **Rule:** Never invent a price, discount, GST amount, EMI amount, or promotional condition.
+
+---
+
+### Quick Reference — User Questions
+
+| User Question / Intent | Knowledge Base Answer |
+| --- | --- |
+| What is Masterstroke Academy? | A structured, college-integrated Master Blockchain programme covering blockchain/Web3 from foundations to advanced development, projects and career preparation. |
+| How many phases are there? | 4 Phases. |
+| How many modules? | 21 Modules. |
+| How many submodules? | 123 SubModules. |
+| How long is the programme? | 130+ hours. |
+| What technologies are covered? | Solidity, Smart Contracts, EVM, DeFi, NFTs, DAOs, Cryptography, Hardhat, ZK Proofs, RWA, Layer 2, Web3.js, MST Chain and security audits. |
+| What is the OJT fee? | Rs 4,999 + GST. |
+| What is the Validator Fellowship fee? | Rs 9,999 + GST. |
+| What is the Student Fellowship fee? | Rs 19,999 + GST. |
+| What is the Web3 Enthusiast Fellowship fee? | Rs 24,999 + GST. |
+| Are prices inclusive of GST? | No. All listed prices are exclusive of GST. |
+| Is there an EMI option? | Not specified in this knowledge base. Refer to the official current enrollment/pricing interface or Academy Support. |
+| Is the price negotiable? | Not specified. Do not promise a discount. Refer to official pricing or Academy Support. |
+| Is internship included? | Student Fellowship and Web3 Enthusiast Fellowship include a guaranteed 2-month paid internship according to the supplied pricing information. |
+| Is there lifetime access? | Yes, all listed tracks include lifetime course access. |
+
+---
+
+### Source & Verification
+
+* **Source:** Masterstroke Academy website information and supplied Academy pricing data
+* **Review Date:** 25 August 2026
+* **Pricing Status:** Verified pricing supplied as current Academy pricing on 25 August 2026
+* **Tax Status:** All listed prices are exclusive of GST

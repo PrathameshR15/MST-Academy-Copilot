@@ -1,0 +1,89 @@
+MASTERSTROKE ACADEMY — COURSE CONTENT & PRICING REFERENCE
+Source reviewed: https://masterstroke.academy/
+Review date: 25 August 2026
+
+IMPORTANT
+This file records only pricing/content information that could be verified from the current public website page. The accessible homepage shows an “Explore Plans” link and “Fellowship Enrollment”, but the actual rupee/dollar course prices are not exposed in the page text available to the crawler. Therefore, no course price is invented here.
+
+1. PROGRAM OVERVIEW
+- Programme: Master Blockchain
+- Positioning: structured, college-integrated programme
+- Format: interactive lessons, live code, rigorous assessments
+- Total structure: 4 Phases, 21 Modules, 123 SubModules, 130+ Hours
+- Public homepage wording: “Lifetime access + internship + rewards”
+- Fellowship Enrollment is advertised.
+- Students choose a track during fellowship enrollment.
+- Homepage mentions competition for PPO opportunities and fellowship bonuses for top performers.
+
+2. COURSE CONTENT / PHASE-WISE STRUCTURE
+
+PHASE 1 — The Internet, Decentralisation & Blockchain Foundation
+- Approximate duration: ~18 hours
+- 4 modules
+- Core content from the supplied curriculum KB:
+  1. The Internet Revolution — From Web 1.0 to Web 3.0
+  2. Centralisation vs Decentralisation
+  3. Blockchain Fundamentals
+  4. Cryptography
+
+PHASE 2 — The MST Difference & Developer Tooling
+- Approximate duration: ~20 hours
+- 4 modules
+- Core content from the supplied curriculum KB:
+  1. Cryptocurrency & Tokenomics
+  2. Why MST Blockchain
+  3. MST Architecture & Protocol Deep Dive
+  4. Development Environment & Solidity
+
+PHASE 3 — Core Project Starts — Building Your Startup MVP
+- Approximate duration: ~70 hours
+- 9 modules
+- Core content from the supplied curriculum KB:
+  1. Capstone Kickoff (Project-Based)
+  2. Advanced Solidity & Security
+  3. DeFi & RWA Orbitals
+  4. NFTs, Gaming & Fairness
+  5. Oracles & WASMify
+  6. Scaling, L2s & Interoperability
+  7. DAOs & Governance
+  8. AI, Identity & Privacy
+  9. Post-Quantum Security & Final Hardening
+
+PHASE 4 — From Developer to Funded Founder/Intern
+- Approximate duration: ~22 hours
+- 4 modules
+- Visible live-site modules:
+  1. MST Grant Program
+  2. Startup Pitch & Entrepreneurship
+  3. Job & Career Launchpad
+  4. Final Deployment & Graduation
+
+3. PUBLIC WEBSITE FEATURES INCLUDED WITH THE PROGRAM
+- Interactive Learning Tree
+- Full-screen / lockdown-mode assessments
+- Live browser code execution for Solidity, JavaScript and more
+- Progress tracking across phases/modules
+- Blockchain/Web3 focus including DeFi, NFTs and DAOs
+- Verifiable certificate on completion
+- 70% pass rule
+- Deployment/testing on MST Chain
+- College-integrated syllabus
+
+4. TECHNOLOGY AREAS PUBLICLY HIGHLIGHTED
+- Solidity
+- DeFi
+- NFTs
+- DAOs
+- Smart Contracts
+- Cryptography
+- Consensus
+- EVM
+- Hardhat
+- ZK Proofs
+- RWA
+- MST Chain
+- Token Standards
+- Layer 2
+- Web3.js
+- Security Audits
+

@@ -1,0 +1,61 @@
+Here is the scraped data from the current page along with the interactive navigation paths:
+
+---
+
+### Page Metadata & Header Controls
+
+* **Page Title:** [Masterstroke Academy | Professional Blockchain Developer Program](https://masterstroke.academy/dashboard/non-validator#refer)
+* **User Profile:** `Vipul Sutar` (Phase 1)
+* **Header Controls & Buttons:**
+* **Brand Logo Link:** [Masterstroke Academy Home](https://masterstroke.academy/)
+* **User Profile Link:** [V Vipul Profile](https://www.google.com/search?q=https://masterstroke.academy/dashboard/non-validator/profile)
+* **Start Learning Button:** [Start Learning](https://www.google.com/search?q=https://masterstroke.academy/dashboard/non-validator/learning-tree)
+* **Events Button:** `Events`
+
+
+
+---
+
+### Command Center Sidebar Navigation
+
+* **Overview:** [Overview Dashboard](https://masterstroke.academy/dashboard/non-validator)
+* **Learning Tree:** [Learning Tree / Roadmap](https://www.google.com/search?q=https://masterstroke.academy/dashboard/non-validator/learning-tree)
+* **Progress:** [Overall Progress](https://www.google.com/search?q=https://masterstroke.academy/dashboard/non-validator/progress)
+* **Submission Progress:** [Submissions Queue](https://www.google.com/search?q=https://masterstroke.academy/dashboard/non-validator/submissions)
+* **Refer & Earn (Active):** [Refer & Earn Panel](https://masterstroke.academy/dashboard/non-validator#refer)
+* **Profile:** [Profile Settings](https://www.google.com/search?q=https://masterstroke.academy/dashboard/non-validator/profile)
+* **Sign Out:** `Sign Out`
+
+---
+
+### Refer & Earn Details
+
+* **Program Description:** *"Invite friends, unlock rewards, and grow together."*
+* **Referral Code:** `mst-fa0b72tweo`
+* **Commission Rate:** Earn **10%** of the referee's course price per successful referral.
+* **Discount Configuration:**
+* **Selected Course Track:** `{Student, Validator, Web3 Enthusiast, OJT}`
+* **Discount Given by Admin:** **0%**
+* **Self Discount Status:** **ACTIVE: 0%**
+
+
+* **Referral Records:**
+* **Successful Referrals:** **0**
+* **Notice:** *"Withdrawal unlocks after each referee purchases the full course."*
+
+
+* **Withdrawal Action:** [Request Withdrawal]
+
+---
+
+### Interactive UI Elements & Navigation Paths
+
+| UI Element / Button | Click Action Path / Target Destination | Function |
+| --- | --- | --- |
+| **Masterstroke Logo** | [Refer & Earn](https://masterstroke.academy/dashboard/non-validator#refer) $\rightarrow$ [Masterstroke Home](https://masterstroke.academy/) | Returns to the main academy home page. |
+| **"V Vipul" Account** | [Refer & Earn](https://masterstroke.academy/dashboard/non-validator#refer) $\rightarrow$ [Profile Settings](https://www.google.com/search?q=https://masterstroke.academy/dashboard/non-validator/profile) | Opens student profile details and user settings. |
+| **"Start Learning" Button** | [Refer & Earn](https://masterstroke.academy/dashboard/non-validator#refer) $\rightarrow$ [Learning Tree](https://www.google.com/search?q=https://masterstroke.academy/dashboard/non-validator/learning-tree) | Directs to the active learning tree/lesson view to resume studies. |
+| **"Copy Referral Code"** | [Refer & Earn](https://masterstroke.academy/dashboard/non-validator#refer) $\rightarrow$ Clipboard Action | Copies `mst-fa0b72tweo` to system clipboard. |
+| **"Update" (Self Discount)** | [Refer & Earn](https://masterstroke.academy/dashboard/non-validator#refer) $\rightarrow$ Form Action | Updates self-discount percentage allocation. |
+| **"Request Withdrawal"** | [Refer & Earn](https://masterstroke.academy/dashboard/non-validator#refer) $\rightarrow$ Withdrawal Action | Triggers payout request once successful referral rewards are available. |
+| **"Sign Out"** | [Refer & Earn](https://masterstroke.academy/dashboard/non-validator#refer) $\rightarrow$ Login View | Logs out the user session. |

@@ -1,0 +1,74 @@
+Here is the scraped data from the current page along with the interactive navigation paths:
+
+---
+
+### Page Metadata & Navigation Controls
+
+* **Page Title:** [Learning Tree - Interactive Blockchain Curriculum | Masterstroke Academy](https://masterstroke.academy/learn)
+* **User Profile:** `V Vipul`
+* **Header Controls & Buttons:**
+* **Brand Logo Link:** [Masterstroke Academy](https://masterstroke.academy/)
+* **User Profile:** [V Vipul Account Details](https://masterstroke.academy/dashboard/non-validator#profile)
+* **Start Learning Button:** [Start Learning](https://masterstroke.academy/learn)
+* **Events Button:** `Events`
+* **Theme Toggle Switch:** Dark / Light mode toggle
+* **Navigation Drawer Menu:** Menu icon (`≡`)
+
+
+
+---
+
+### Phase & Breadcrumb Information
+
+* **Active Phase:** **Phase 4 — From Developer to Funded Founder/Intern — Grants, Pitch & Career**
+* **Breadcrumb Path:** [Home](https://masterstroke.academy/) $\rightarrow$ `From Developer to Funded Founder/Intern — Grants, Pitch & Career`
+* **Roadmap Overview:** 4 Phases · 21 Modules · Your Path
+* **Gamification Elements:** `XP + streak` tracker and [Leaderboard](https://masterstroke.academy/leaderboard) button
+
+---
+
+### Visible Modules (Phase 4)
+
+* **Module 1: MODULE 1 — MST GRANT PROGRAM**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 2: MODULE 2 — STARTUP PITCH & ENTREPRENEURSHIP**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 3: MODULE 3 — JOB & CAREER LAUNCHPAD**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 4: MODULE 4 — FINAL DEPLOYMENT & GRADUATION**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+
+---
+
+### Interactive UI Elements & Navigation Paths
+
+| UI Element / Button | Click Action Path / Target Destination | Function |
+| --- | --- | --- |
+| **Masterstroke Logo** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Masterstroke Home](https://masterstroke.academy/) | Returns to the academy home page. |
+| **"V Vipul" Account** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) | Views profile details, settings, and student account information. |
+| **"Start Learning"** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Active Lesson Workspace](https://masterstroke.academy/learn) | Resumes active capstone project, pitch preparation, or final deployment module. |
+| **"Events" Button** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Community Events View | Opens community events, live pitching sessions, and Demo Day schedules. |
+| **"Leaderboard"** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Leaderboard Standings](https://masterstroke.academy/leaderboard) | Displays global XP rankings and current student streak counts. |
+| **Breadcrumb "Home"** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Masterstroke Directory | Resets breadcrumb filters to display overall curriculum phases. |
+| **Module Cards (1–4)** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Module Lesson Drawer | Expands selected Phase 4 module to view grant applications, pitch deck templates, and career resources. |
+| **Footer Legal Links** | [Refund Policy](https://masterstroke.academy/refund-policy) · [Terms & Conditions](https://masterstroke.academy/terms-conditions) · [Privacy Policy](https://masterstroke.academy/privacy-policy) · [Contact Us](https://masterstroke.academy/contact-us) | Directs to respective policy, terms, privacy, and support pages. |
+
+---
+
+### Footer Details
+
+* **Legal & Support Links:** [Refund Policy](https://masterstroke.academy/refund-policy) • [Terms & Conditions](https://masterstroke.academy/terms-conditions) • [Privacy Policy](https://masterstroke.academy/privacy-policy) • [Contact Us](https://masterstroke.academy/contact-us)
+* **Copyright Notice:** © 2026 Masterstroke Academy. All Rights Reserved.
+* **Operating Entity:** *Operated by Masterstroke Technosoft Private Limited.*

@@ -1,0 +1,55 @@
+Here is the scraped data from the current page along with the interactive navigation paths:
+
+---
+
+### Page Metadata & Navigation Controls
+
+* **Page Title:** [Masterstroke Academy | Professional Blockchain Developer Program](https://masterstroke.academy/dashboard/non-validator#submissions)
+* **User Profile:** `V Vipul`
+* **Header Controls & Buttons:**
+* **Brand Logo Link:** [Masterstroke Academy Home](https://masterstroke.academy/dashboard/non-validator#submissions)
+* **User Profile Link:** [V Vipul Account Details](https://masterstroke.academy/dashboard/non-validator#submissions)
+* **Start Learning Button:** [Start Learning](https://masterstroke.academy/dashboard/non-validator#submissions)
+* **Events Button:** `Events`
+* **Theme Toggle Switch:** Dark / Light mode toggle
+* **Command Center Sidebar Toggle:** Drawer menu icon (`≡`)
+
+
+
+---
+
+### Page Title & Description
+
+* **Section Tag:** `LIVE REVIEW QUEUE`
+* **Heading:** Submission Progress
+* **Description:** *"Track the status of your practical assessment submissions. Submissions are reviewed by our engineering mentors, and marks/grades will appear below once evaluated."*
+
+---
+
+### Submission Metrics
+
+| Metric Category | Count / Value |
+| --- | --- |
+| **Total Submitted** | **0** |
+| **Pending Review** | **0** |
+| **Passed** | **0** |
+| **Failed** | **0** |
+
+---
+
+### Submissions List Status
+
+* **Status State:** **No submissions found**
+* **Notice Message:** *"You haven't submitted any practical assessments yet. Start learning and submit assignments to track your progress here."*
+
+---
+
+### Interactive UI Elements & Navigation Paths
+
+| UI Element / Button | Click Action Path / Target Destination | Function |
+| --- | --- | --- |
+| **Masterstroke Logo** | [Submissions Dashboard](https://masterstroke.academy/dashboard/non-validator#submissions) $\rightarrow$ Masterstroke Home | Returns to the main academy home page. |
+| **"V Vipul" Account** | [Submissions Dashboard](https://masterstroke.academy/dashboard/non-validator#submissions) $\rightarrow$ Profile Settings | Opens student profile details and user account settings. |
+| **"Start Learning" Button** | [Submissions Dashboard](https://masterstroke.academy/dashboard/non-validator#submissions) $\rightarrow$ Learning Tree | Redirects to active course modules to resume assignments and studies. |
+| **"Events" Button** | [Submissions Dashboard](https://masterstroke.academy/dashboard/non-validator#submissions) $\rightarrow$ Community Events View | Opens community events, workshops, and mentor review sessions. |
+| **Sidebar Toggle ("≡")** | [Submissions Dashboard](https://masterstroke.academy/dashboard/non-validator#submissions) $\rightarrow$ Command Center Menu | Expands side navigation (Dashboard, Learning Tree, Submissions, Leaderboard). |

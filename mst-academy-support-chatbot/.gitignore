@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv
+venv/
+env/
+node_modules/
+dist/
+build/
+backend/data/website_cache/*.json

@@ -1,0 +1,99 @@
+Here is the scraped data from the current page along with the interactive navigation paths:
+
+---
+
+### Page Metadata & Navigation Controls
+
+* **Page Title:** [Learning Tree - Interactive Blockchain Curriculum | Masterstroke Academy](https://masterstroke.academy/learn)
+* **User Profile:** `V Vipul`
+* **Header Controls & Buttons:**
+* **Brand Logo Link:** [Masterstroke Academy](https://masterstroke.academy/)
+* **User Profile:** [V Vipul Account Details](https://masterstroke.academy/dashboard/non-validator#profile)
+* **Start Learning Button:** [Start Learning](https://masterstroke.academy/learn)
+* **Events Button:** `Events`
+* **Theme Toggle Switch:** Dark / Light mode toggle
+* **Navigation Drawer Menu:** Menu icon (`≡`)
+
+
+
+---
+
+### Phase & Breadcrumb Information
+
+* **Active Phase:** **Phase 3 — Core Project Starts: Building Your Startup MVP**
+* **Breadcrumb Path:** [Home](https://masterstroke.academy/) $\rightarrow$ `Core Project Starts- Building Your Startup MVP`
+* **Roadmap Overview:** 4 Phases · 21 Modules · Your Path
+* **Gamification Elements:** `XP + streak` tracker and [Leaderboard](https://masterstroke.academy/leaderboard) button
+
+---
+
+### Visible Modules (Phase 3)
+
+* **Module 1: MODULE 1 — CAPSTONE KICKOFF (PROJECT‑BASED)**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 2: MODULE 2 — ADVANCED SOLIDITY & SECURITY**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 3: MODULE 3 — DeFi & RWA ORBITALS**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 4: MODULE 4 — NFTs, GAMING & FAIRNESS**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 5: MODULE 5 — ORACLES & WASMify**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 6: MODULE 6 — SCALING, L2s & INTEROPERABILITY**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 7: MODULE 7 — DAOs & GOVERNANCE**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 8: MODULE 8 — AI, IDENTITY & PRIVACY**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 9: MODULE 9 — POST‑QUANTUM SECURITY & FINAL HARDENING**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+
+---
+
+### Interactive UI Elements & Navigation Paths
+
+| UI Element / Button | Click Action Path / Target Destination | Function |
+| --- | --- | --- |
+| **Masterstroke Logo** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Masterstroke Home](https://masterstroke.academy/) | Returns to the academy home page. |
+| **"V Vipul" Account** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) | Views profile preferences and student account. |
+| **"Start Learning"** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Active Lesson Workspace](https://masterstroke.academy/learn) | Resumes active capstone project or lesson module. |
+| **"Events" Button** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Community Events View | Opens community events, workshops, and Demo Day schedules. |
+| **"Leaderboard"** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Leaderboard Standings](https://masterstroke.academy/leaderboard) | Displays global XP rankings and current student streaks. |
+| **Breadcrumb "Home"** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Masterstroke Directory | Resets breadcrumb filters to display overall phases. |
+| **Module Cards (1–9)** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Module Lesson Drawer | Expands selected Phase 3 module to view project briefs and lessons. |
+| **Footer Legal Links** | [Refund Policy](https://masterstroke.academy/refund-policy) · [Terms & Conditions](https://masterstroke.academy/terms-conditions) · [Privacy Policy](https://masterstroke.academy/privacy-policy) · [Contact Us](https://masterstroke.academy/contact-us) | Directs to respective policy, legal, and support documentation. |
+
+---
+
+### Footer Details
+
+* **Legal & Support Links:** [Refund Policy](https://masterstroke.academy/refund-policy) • [Terms & Conditions](https://masterstroke.academy/terms-conditions) • [Privacy Policy](https://masterstroke.academy/privacy-policy) • [Contact Us](https://masterstroke.academy/contact-us)
+* **Copyright Notice:** © 2026 Masterstroke Academy. All Rights Reserved.
+* **Operating Entity:** *Operated by Masterstroke Technosoft Private Limited.*

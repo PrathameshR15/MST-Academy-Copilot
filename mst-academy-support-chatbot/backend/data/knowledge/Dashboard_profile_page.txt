@@ -1,0 +1,62 @@
+Here is the scraped data from the current page along with the interactive navigation paths:
+
+---
+
+### Page Metadata & Header Controls
+
+* **Page Title:** [Masterstroke Academy | Professional Blockchain Developer Program](https://masterstroke.academy/)
+* **User Profile:** `Vipul Sutar` (Phase 1)
+* **Header Controls & Buttons:**
+* **Brand Logo Link:** [Masterstroke Academy Home](https://masterstroke.academy/)
+* **User Profile Link:** [V Vipul Account Details](https://masterstroke.academy/dashboard/non-validator#profile)
+* **Start Learning Button:** [Start Learning](https://masterstroke.academy/learn)
+* **Events Button:** `Events`
+* **Theme Toggle Switch:** Dark / Light mode toggle
+* **Command Center Sidebar Toggle:** Drawer menu icon (`≡`)
+
+
+
+---
+
+### Command Center Sidebar Navigation
+
+* **Overview:** [Overview Dashboard](https://masterstroke.academy/dashboard/non-validator)
+* **Learning Tree:** [Learning Tree / Roadmap](https://masterstroke.academy/learn)
+* **Progress:** [Overall Progress](https://masterstroke.academy/dashboard/non-validator#progress)
+* **Submission Progress:** [Submissions Queue](https://masterstroke.academy/dashboard/non-validator#submissions)
+* **Refer & Earn:** [Refer & Earn Panel](https://masterstroke.academy/dashboard/non-validator#refer)
+* **Profile (Active):** [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile)
+* **Sign Out:** `Sign Out`
+
+---
+
+### User Profile Details
+
+* **Profile Photo:** Upload option (Max 5MB, JPG/PNG, 256x256 recommended)
+* **Full Name:** `Vipul Sutar`
+* **Email Address:** `vipulsutar.mst@gmail.com`
+* **Mobile Number:** `8999581785`
+* **LinkedIn Profile:** `https://linkedin.com/in/username`
+* **GitHub Profile:** `https://github.com/username`
+* **Portfolio Website (Optional):** `https://yourportfolio.com`
+* **Wallet Address (Web3):** `0x...`
+* **Role:** `COURSE_ONLY`
+* **Account Status:** Active (`Yes`)
+* **Payment Status:** `Payment Verified`
+* **CV Upload:** Option to attach CV (Max size 5MB)
+* **Referral Link:** `https://masterstroke.academy/register?ref=mst-fa0b72tweo`
+
+---
+
+### Interactive UI Elements & Navigation Paths
+
+| UI Element / Button | Click Action Path / Target Destination | Function |
+| --- | --- | --- |
+| **Masterstroke Logo** | [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) $\rightarrow$ [Masterstroke Home](https://masterstroke.academy/) | Returns to the main academy home page. |
+| **"V Vipul" Account** | [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) $\rightarrow$ [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) | Views student profile details and user account settings. |
+| **"Start Learning" Button** | [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) $\rightarrow$ [Learning Tree](https://masterstroke.academy/learn) | Redirects to active learning tree/lesson view to resume studies. |
+| **"Upload Photo"** | [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) $\rightarrow$ File Chooser | Launches file picker to update profile avatar (max 5MB). |
+| **"Choose File" (CV)** | [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) $\rightarrow$ File Chooser | Selects a PDF/DOC CV file to upload to student profile. |
+| **"Copy" (Referral Link)** | [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) $\rightarrow$ Clipboard Action | Copies unique referral URL to system clipboard. |
+| **"Save Changes"** | [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) $\rightarrow$ Form Submission | Persists profile modifications (contact details, social links, wallet address). |
+| **"Sign Out"** | [Profile Settings](https://masterstroke.academy/dashboard/non-validator#profile) $\rightarrow$ Login Screen | Logs out of the current student session. |

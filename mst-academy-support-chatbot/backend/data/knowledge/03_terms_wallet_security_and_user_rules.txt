@@ -1,0 +1,131 @@
+MASTERSTROKE ACADEMY — ADDITIONAL SUPPORT KNOWLEDGE
+Purpose: New support-relevant rules found in the current Terms & Conditions that were not already present in the supplied KB.
+
+SOURCE: https://masterstroke.academy/terms-conditions
+LAST UPDATED ON WEBSITE: 19-06-2026
+REVIEW DATE: 2026-08-25
+
+1. ELIGIBILITY
+- The Services may be accessed by individuals of any age.
+- Users below the age of majority should use the Services under parent/legal-guardian supervision.
+- Users are expected to provide accurate and complete information and comply with applicable laws.
+
+2. ACCOUNT REGISTRATION
+Certain features require an account.
+Information that may be required includes:
+- Full Name
+- Email Address
+- Mobile Number
+- Profile Photograph
+- Wallet Address
+- Student Verification Information
+Users are responsible for account security, protecting login credentials, accurate information and preventing unauthorized access.
+
+3. STUDENT VERIFICATION
+Some programmes, pricing plans, rewards or benefits may require student verification.
+The Academy may request a valid college ID card and other verification information.
+Fraudulent, altered, expired or misleading documents may lead to:
+- Rejection of verification
+- Suspension of benefits
+- Account restrictions
+- Termination of access
+
+4. WEB3 WALLET REQUIREMENT
+Certain features may require a compatible Web3 wallet for:
+- Reward distribution
+- Certification issuance
+- Ecosystem participation
+- Validator pathways
+- Blockchain-based activities
+Users are responsible for wallet access, wallet credentials, recovery phrases and wallet security.
+SECURITY RULE: Masterstroke Academy states it will never request a private key, recovery phrase or wallet seed phrase.
+
+5. COURSE ACCESS RIGHTS
+After successful enrollment/payment, users may receive access to:
+- Learning modules
+- Assessments
+- Educational resources
+- Certification pathways
+- Ecosystem participation opportunities
+Access is:
+- Personal
+- Non-transferable
+- Non-sublicensable
+Users may not share accounts, resell access, redistribute content, or provide access to third parties.
+
+6. LIFETIME ACCESS
+When a course is advertised as “Lifetime Access”, the Terms define this as access for as long as the course, platform and associated services continue to be maintained and offered.
+The Academy may modify content, update modules, retire outdated content or reorganize learning structures without creating a refund obligation.
+
+7. ASSESSMENT EVALUATION
+Course completion may involve completion of modules, participation in activities, successful assessment performance and compliance with Academy policies.
+The Terms state assessments may be evaluated using AI and that AI evaluation can occasionally make mistakes.
+Students are encouraged to verify important assessment responses and contact Academy Support when they believe an assessment requires review.
+
+8. CERTIFICATION
+- Digital and blockchain-based certifications may be issued.
+- Eligibility can require completion of required modules, passing designated assessments and compliance with Academy standards.
+- Enrollment alone does not guarantee certification.
+- The Academy may deny, revoke or suspend certification eligibility where fraud, misconduct, abuse or policy violations are identified.
+- Some certifications may be permanently recorded on supported blockchains and publicly verifiable.
+- Certification records linked to a wallet depend on the wallet address provided by the user.
+
+9. REWARDS
+Reward/incentive eligibility may depend on:
+- Course completion
+- Assessment performance
+- Participation requirements
+- Programme-specific criteria
+Participation does not guarantee reward allocation. Reward structures and eligibility may change.
+
+10. VALIDATOR PATHWAYS
+The Academy may provide educational pathways intended to prepare users for validator participation.
+Completing an educational programme does not automatically grant:
+- Validator status
+- Validator approval
+- Validator rewards
+- Network authority
+Additional technical, operational, compliance or ecosystem requirements may apply.
+
+11. INTELLECTUAL PROPERTY
+Academy materials remain the property of Masterstroke Technosoft Pvt. Ltd. or licensors.
+This includes course content, text, videos, graphics, assessments, software, branding, trademarks, logos, documentation and educational frameworks.
+Users receive a limited, revocable, non-exclusive licence for personal educational use; no ownership rights are transferred.
+
+12. PROHIBITED ACTIVITIES
+Users must not:
+- Copy Academy content
+- Record premium content for redistribution
+- Share account credentials
+- Circumvent security measures
+- Reverse engineer platform systems
+- Upload malicious software
+- Commit fraud
+- Manipulate reward systems
+- Misrepresent identity
+- Impersonate another person
+- Violate applicable laws
+Violations may result in suspension or termination.
+
+13. EDUCATIONAL DISCLAIMER
+Academy content is for educational/informational purposes and is not:
+- Financial advice
+- Investment advice
+- Trading advice
+- Tax advice
+- Legal advice
+- Professional consulting advice
+
+14. PLATFORM AVAILABILITY
+Continuous, error-free or uninterrupted access is not guaranteed.
+Temporary unavailability can result from maintenance, security upgrades, infrastructure issues, third-party failures or blockchain network issues.
+
+15. SERVICE CHANGES
+The Academy may add/remove features, modify programmes, update content, change pricing, or discontinue services at its discretion.
+
+16. GOVERNING LAW/JURISDICTION
+The Terms are governed by the laws of India.
+Disputes are subject to the competent courts in Pune, Maharashtra, India.
+
+CHATBOT RULE
+Use this file for policy/support questions only. Do not turn policy text into legal advice. For account-specific decisions, rely on authorized Academy data or Academy Support.

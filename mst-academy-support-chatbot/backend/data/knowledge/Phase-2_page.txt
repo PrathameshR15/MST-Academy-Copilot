@@ -1,0 +1,74 @@
+Here is the scraped data from the currently viewed page along with the interactive navigation paths:
+
+---
+
+### Page Metadata & Navigation Controls
+
+* **Page Title:** [Learning Tree - Interactive Blockchain Curriculum | Masterstroke Academy](https://masterstroke.academy/learn)
+* **User Profile:** `V Vipul`
+* **Header Controls & Buttons:**
+* **Brand Logo Link:** [Masterstroke Academy](https://masterstroke.academy/)
+* **User Profile:** [V Vipul Account Details](https://www.google.com/search?q=https://masterstroke.academy/profile)
+* **Start Learning Button:** [Start Learning](https://masterstroke.academy/learn)
+* **Events Button:** `Events`
+* **Theme Toggle Switch:** Dark / Light mode toggle
+* **Navigation Drawer Menu:** Menu icon (`≡`)
+
+
+
+---
+
+### Phase & Breadcrumb Information
+
+* **Active Phase:** **Phase 2 — The MST Difference & Developer Tooling**
+* **Breadcrumb Path:** [Home](https://masterstroke.academy/) $\rightarrow$ `The MST Difference & Developer Tooling`
+* **Roadmap Overview:** 4 Phases · 21 Modules · Your Path
+* **Gamification Elements:** `XP + streak` tracker and [Leaderboard](https://masterstroke.academy/leaderboard) button
+
+---
+
+### Visible Modules (Phase 2)
+
+* **Module 1: MODULE 1: CRYPTOCURRENCY & TOKENOMICS**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 2: MODULE 2 — WHY MST BLOCKCHAIN**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 3: MODULE 3 — MST ARCHITECTURE & PROTOCOL DEEP DIVE**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+* **Module 4: MODULE 4 — DEVELOPMENT ENVIRONMENT & SOLIDITY**
+* **Status:** In Progress
+* **Progress:** 0%
+
+
+
+---
+
+### Interactive UI Elements & Navigation Paths
+
+| UI Element / Button | Click Action Path / Target Destination | Function |
+| --- | --- | --- |
+| **Masterstroke Logo** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Masterstroke Home](https://masterstroke.academy/) | Returns to the academy overview/home page. |
+| **"V Vipul" Account** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Profile Settings](https://www.google.com/search?q=https://masterstroke.academy/profile) | Views profile preferences and student identity. |
+| **"Start Learning"** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Active Lesson Workspace | Resumes the active or next available lesson module. |
+| **"Events" Button** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Community Events View | Opens live community schedules, webinars, and Demo Days. |
+| **"Leaderboard"** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ [Leaderboard Standings](https://masterstroke.academy/leaderboard) | Displays XP rankings, streaks, and global student standings. |
+| **Breadcrumb "Home"** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Masterstroke Home | Resets navigation back to the top-level directory. |
+| **Module Cards (1–4)** | [Learning Tree](https://masterstroke.academy/learn) $\rightarrow$ Module Lesson Drawer | Expands the selected Phase 2 module to reveal lesson topics. |
+| **Footer Legal Links** | [Refund Policy](https://www.google.com/search?q=https://masterstroke.academy/refund) · [Terms & Conditions](https://www.google.com/search?q=https://masterstroke.academy/terms) · [Privacy Policy](https://www.google.com/search?q=https://masterstroke.academy/privacy) · [Contact Us](https://www.google.com/search?q=https://masterstroke.academy/contact) | Directs to respective policy, legal, and support pages. |
+
+---
+
+### Footer Details
+
+* **Legal & Support Links:** [Refund Policy](https://www.google.com/search?q=https://masterstroke.academy/refund) • [Terms & Conditions](https://www.google.com/search?q=https://masterstroke.academy/terms) • [Privacy Policy](https://www.google.com/search?q=https://masterstroke.academy/privacy) • [Contact Us](https://www.google.com/search?q=https://masterstroke.academy/contact)
+* **Copyright Notice:** © 2026 Masterstroke Academy. All Rights Reserved.
+* **Operating Entity:** *Operated by Masterstroke Technosoft Private Limited.*
