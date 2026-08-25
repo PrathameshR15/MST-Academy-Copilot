@@ -107,13 +107,3 @@ Include multiple variations in search_terms (e.g. for pricing: fee, cost, price,
     except Exception as e:
         print(f"OpenAI Query Analysis Error: {str(e)}")
         raise
- {"role": "user", "content": prompt}
-            ],
-            response_format={ "type": "json_object" },
-            timeout=10.0
-        )
-        text = response.choices[0].message.content.strip()
-        return json.loads(text)
-    except Exception as e:
-        print(f"OpenAI Query Analysis Error: {str(e)}")
-        raise
