@@ -1,7 +1,10 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from pydantic import BaseModel
 import config
+import os
 
 from services.knowledge_loader import reload_knowledge, get_knowledge_chunks
 from services.website_cache import get_website_status
@@ -17,6 +20,18 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Ensure static directory exists
+os.makedirs("static", exist_ok=True)
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+@app.get("/")
+def serve_widget_test():
+    """Serves the index.html test page from the static directory."""
+    index_path = os.path.join("static", "index.html")
+    if os.path.exists(index_path):
+        return FileResponse(index_path)
+    return {"message": "MST Academy API is running."}
 
 class ChatRequest(BaseModel):
     message: str

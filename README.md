@@ -1,4 +1,6 @@
-# MST Academy Support Chatbot
+# MST Academy Support Chatbot (Copilot)
+
+MST Academy AI Support Assistant is an AI chatbot for Masterstroke Academy. It uses local TXT knowledge and website crawling to provide accurate support on courses, pricing, enrollment, payments, internships, access, and technical issues. OpenAI understands varied questions and context, while answers stay grounded in verified Academy information.
 
 This project is a full-stack web application designed as a support chatbot for MST Academy.
 
