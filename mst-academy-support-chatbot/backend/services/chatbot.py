@@ -8,7 +8,7 @@ from config import LOCAL_RELEVANCE_THRESHOLD, WEBSITE_RELEVANCE_THRESHOLD
 
 NOT_FOUND_MESSAGE = "I couldn't find that information in the available MST Academy knowledge. Please contact Academy Support for further assistance."
 
-def answer_question(question: str, history: list = None, provider: str = "gemini") -> dict:
+def answer_question(question: str, history: list = None, provider: str = "openai") -> dict:
     if history is None:
         history = []
         

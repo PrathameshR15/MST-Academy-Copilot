@@ -2,7 +2,7 @@ import json
 from services.gemini_service import analyze_query_gemini
 from services.openai_service import analyze_query_openai
 
-def analyze_query(query: str, history: list, provider: str = "gemini") -> dict:
+def analyze_query(query: str, history: list, provider: str = "openai") -> dict:
     """
     Analyzes the user query and returns a dictionary with 'intent' and 'search_terms'.
     """

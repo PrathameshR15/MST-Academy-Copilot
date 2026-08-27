@@ -1,5 +1,6 @@
 import os
 import re
+# pyrefly: ignore [missing-import]
 from bs4 import BeautifulSoup
 from config import KNOWLEDGE_DIR
 

@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
@@ -15,7 +15,7 @@ app = FastAPI(title="MST Academy Support Chatbot API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Adjust in production
+    allow_origins=config.ALLOWED_ORIGINS,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -36,7 +36,7 @@ def serve_widget_test():
 class ChatRequest(BaseModel):
     message: str
     history: list = []
-    provider: str = "gemini"
+    provider: str = "openai"
 
 @app.on_event("startup")
 async def startup_event():
@@ -80,9 +80,15 @@ def refresh_website():
         raise HTTPException(status_code=500, detail=f"Crawl failed: {str(e)}")
 
 @app.post("/api/chat")
-def chat(request: ChatRequest):
+def chat(request: ChatRequest, http_request: Request):
+    # Server-side Origin validation
+    origin = http_request.headers.get("origin")
+    if not origin or origin not in config.ALLOWED_ORIGINS:
+        raise HTTPException(status_code=403, detail="Unauthorized request origin")
+
     if not request.message.strip():
         raise HTTPException(status_code=400, detail="Message cannot be empty")
         
     result = answer_question(request.message, request.history, request.provider)
     return result
+

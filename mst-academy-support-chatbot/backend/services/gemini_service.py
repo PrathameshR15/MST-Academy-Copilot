@@ -1,4 +1,6 @@
+# pyrefly: ignore [missing-import]
 import google.generativeai as genai
+# pyrefly: ignore [missing-import]
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 from config import GEMINI_API_KEY, GEMINI_MODEL
 from services.openai_service import SYSTEM_PROMPT

@@ -10,7 +10,7 @@ function App() {
     { role: 'assistant', text: 'Hello! How can I help you with Academy support?', source: null }
   ])
   const [input, setInput] = useState('')
-  const [provider, setProvider] = useState('gemini')
+  const [provider, setProvider] = useState('openai')
   const [isLoading, setIsLoading] = useState(false)
   const [knowledgeStatus, setKnowledgeStatus] = useState(null)
   const [websiteStatus, setWebsiteStatus] = useState(null)
