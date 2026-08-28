@@ -20,8 +20,8 @@ class WebsiteCrawler:
 
     def is_valid_url(self, url: str) -> bool:
         parsed = urlparse(url)
-        # Check domain
-        if parsed.netloc != self.domain:
+        # Check domain (allow main domain and subdomains like events.masterstroke.academy)
+        if parsed.netloc != self.domain and not parsed.netloc.endswith("." + self.domain):
             return False
         # Prevent fragments and query params that might duplicate content loosely
         return True
@@ -63,7 +63,10 @@ class WebsiteCrawler:
         return links
 
     def crawl(self) -> Dict:
-        urls_to_visit = [self.normalize_url(self.start_url)]
+        urls_to_visit = [
+            self.normalize_url(self.start_url),
+            self.normalize_url("https://events.masterstroke.academy/")
+        ]
         
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
@@ -83,7 +86,7 @@ class WebsiteCrawler:
                 
                 try:
                     print(f"Crawling ({len(self.pages) + 1}/{self.max_pages}): {current_url}")
-                    page.goto(current_url, wait_until="domcontentloaded")
+                    page.goto(current_url, wait_until="networkidle")
                     html_content = page.content()
                     
                     try:

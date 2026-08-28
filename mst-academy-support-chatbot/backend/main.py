@@ -5,6 +5,7 @@ from fastapi.responses import FileResponse
 from pydantic import BaseModel
 import config
 import os
+from apscheduler.schedulers.background import BackgroundScheduler
 
 from services.knowledge_loader import reload_knowledge, get_knowledge_chunks
 from services.website_cache import get_website_status
@@ -38,10 +39,20 @@ class ChatRequest(BaseModel):
     history: list = []
     provider: str = "openai"
 
+# Scheduler for automatic website crawling every 24 hours
+scheduler = BackgroundScheduler()
+scheduler.add_job(start_crawl, 'interval', hours=24)
+
 @app.on_event("startup")
 async def startup_event():
     # Load initial knowledge on startup
     get_knowledge_chunks()
+    # Start the background crawler scheduler
+    scheduler.start()
+
+@app.on_event("shutdown")
+async def shutdown_event():
+    scheduler.shutdown()
 
 @app.get("/api/health")
 def health_check():

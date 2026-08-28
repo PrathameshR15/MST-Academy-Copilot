@@ -25,7 +25,7 @@
         <div id="mst-chat-widget-window">
             <div id="mst-chat-widget-header">
                 <div style="display: flex; align-items: center;">
-                    <div class="mst-chat-widget-robot-mascot">🤖</div>
+                    <img src="${baseUrl}/mst_logo.png" alt="Logo" style="width: 36px; height: 36px; object-fit: contain; border-radius: 50%; margin-right: 12px; background: transparent;" />
                     <div class="mst-chat-widget-title">
                         <span>MST Academy</span>
                         <span class="mst-chat-widget-subtitle">Support Assistant</span>
@@ -46,8 +46,7 @@
             </div>
         </div>
         <button id="mst-chat-widget-button">
-            <!-- Robot SVG -->
-            <svg viewBox="0 0 24 24"><path d="M12 2a2 2 0 0 1 2 2v2h3a2 2 0 0 1 2 2v2h2v4h-2v2a2 2 0 0 1-2 2h-3v2a2 2 0 0 1-2 2H10a2 2 0 0 1-2-2v-2H5a2 2 0 0 1-2-2v-2H1v-4h2V8a2 2 0 0 1 2-2h3V4a2 2 0 0 1 2-2h2zM5 10v6h14v-6H5zm3 2h2v2H8v-2zm6 0h2v2h-2v-2z"/></svg>
+            <img src="${baseUrl}/mst_logo.png" alt="Chat" style="width: 36px; height: 36px; object-fit: contain; border-radius: 50%;" />
         </button>
     `;
 
