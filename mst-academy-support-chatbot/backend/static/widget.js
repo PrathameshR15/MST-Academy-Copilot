@@ -164,7 +164,8 @@
 
         messagesArea.appendChild(msgDiv);
 
-        // Add source badge if applicable
+        // Add source badge if applicable (HIDDEN PER USER REQUEST)
+        /*
         if (source && source !== "NONE") {
             let sourceText = "Information not found";
             if (source === 'LOCAL_KB') sourceText = "Source: Academy Knowledge Base";
@@ -176,6 +177,7 @@
             sourceDiv.textContent = sourceText;
             messagesArea.appendChild(sourceDiv);
         }
+        */
 
         scrollToBottom();
     }

@@ -27,7 +27,9 @@ if _allowed_origins_env.strip():
 else:
     ALLOWED_ORIGINS = [
         "https://masterstroke.academy",
-        "https://www.masterstroke.academy"
+        "https://www.masterstroke.academy",
+        "http://localhost:3000",
+        "http://localhost:3000/"
     ]
 
 KNOWLEDGE_DIR = os.path.join(os.path.dirname(__file__), "data", "knowledge")
