@@ -5,9 +5,15 @@
     const baseUrl = scriptUrl.substring(0, scriptUrl.lastIndexOf('/'));
     const apiUrl = baseUrl.replace('/static', '/api');
 
+    // Inject Plus Jakarta Sans Font
+    const fontLink = document.createElement('link');
+    fontLink.rel = 'stylesheet';
+    fontLink.href = 'https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700&display=swap';
+    document.head.appendChild(fontLink);
+
     const link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = `${baseUrl}/widget.css`;
+    link.href = `${baseUrl}/widget.css?v=${Date.now()}`;
     document.head.appendChild(link);
 
     // Inject Marked.js for Markdown parsing
@@ -45,6 +51,33 @@
                 </button>
             </div>
         </div>
+        <!-- Thought Cloud -->
+        <div id="mst-chat-thought" role="button" aria-label="Open chat assistant" title="Click to ask a question">
+            <div class="mst-thought-cloud-bubble">
+                <svg class="mst-thought-cloud-svg" viewBox="0 0 240 100" xmlns="http://www.w3.org/2000/svg">
+                    <path class="mst-thought-cloud-path" 
+                          d="M 52 70 
+                             A 22 22 0 0 1 32 38 
+                             A 26 26 0 0 1 70 20 
+                             A 34 34 0 0 1 125 14 
+                             A 34 34 0 0 1 180 20 
+                             A 26 26 0 0 1 216 42 
+                             A 22 22 0 0 1 198 72 
+                             A 26 26 0 0 1 148 74 
+                             A 28 28 0 0 1 96 74 
+                             A 22 22 0 0 1 52 70 Z" />
+                </svg>
+                <span class="mst-thought-cloud-text">Ask me anything...</span>
+            </div>
+
+            <div class="mst-thought-dots">
+                <span class="mst-thought-dot mst-dot-1"></span>
+                <span class="mst-thought-dot mst-dot-2"></span>
+                <span class="mst-thought-dot mst-dot-3"></span>
+            </div>
+        </div>
+
+        <!-- Existing Chat Button -->
         <button id="mst-chat-widget-button">
             <img src="${baseUrl}/mst_logo.png" alt="Chat" style="width: 36px; height: 36px; object-fit: contain; border-radius: 50%;" />
         </button>
@@ -53,6 +86,7 @@
     // DOM Elements
     const chatWindow = document.getElementById('mst-chat-widget-window');
     const chatButton = document.getElementById('mst-chat-widget-button');
+    const thoughtCloud = document.getElementById('mst-chat-thought');
     const closeBtn = document.getElementById('mst-chat-widget-close');
     const messagesArea = document.getElementById('mst-chat-widget-messages');
     const inputField = document.getElementById('mst-chat-widget-input');
@@ -65,12 +99,18 @@
     function toggleWindow() {
         chatWindow.classList.toggle('mst-chat-widget-open');
         chatButton.classList.toggle('mst-chat-widget-hidden');
-        if (chatWindow.classList.contains('mst-chat-widget-open')) {
+
+        const isOpen = chatWindow.classList.contains('mst-chat-widget-open');
+
+        thoughtCloud.classList.toggle('mst-thought-hidden', isOpen);
+
+        if (isOpen) {
             inputField.focus();
         }
     }
 
     chatButton.addEventListener('click', toggleWindow);
+    thoughtCloud.addEventListener('click', toggleWindow);
     closeBtn.addEventListener('click', toggleWindow);
 
     // Input state

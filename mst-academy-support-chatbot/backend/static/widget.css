@@ -2,13 +2,15 @@
    MST Academy Chat Widget Styles
    ========================================== */
 
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700&display=swap');
+
 /* Isolation wrapper */
 #mst-chat-widget-container {
     position: fixed;
     bottom: 20px;
     right: 20px;
     z-index: 999999;
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-family: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     color: #0F172A;
 }
 
@@ -376,5 +378,199 @@
 
     100% {
         transform: rotate(0deg);
+    }
+}
+
+/* ==========================================
+   MST THOUGHT CLOUD (Interactive Float)
+   ========================================== */
+
+#mst-chat-thought {
+    position: absolute;
+    right: -2px;
+    bottom: 68px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    z-index: 999998;
+    cursor: pointer;
+    user-select: none;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+    animation: mst-cloud-float 3.5s ease-in-out infinite;
+}
+
+#mst-chat-thought:hover {
+    animation-play-state: paused;
+    transform: translateY(-4px) scale(1.03);
+}
+
+#mst-chat-thought:active {
+    transform: translateY(-1px) scale(0.98);
+}
+
+@keyframes mst-cloud-float {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-6px);
+    }
+}
+
+/* Cloud Bubble Container */
+.mst-thought-cloud-bubble {
+    position: relative;
+    width: 160px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 6px;
+    /* Offsets SVG baseline to center text precisely inside cloud */
+}
+
+/* SVG Vector Cloud */
+.mst-thought-cloud-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    pointer-events: none;
+}
+
+.mst-thought-cloud-path {
+    fill: #ffffff;
+    stroke: #ff7b87;
+    stroke-width: 2.5px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    filter: drop-shadow(0px 4px 12px rgba(255, 100, 110, 0.25)) drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.05));
+    transition: stroke 0.2s ease, filter 0.2s ease;
+}
+
+#mst-chat-thought:hover .mst-thought-cloud-path {
+    stroke: #ff5263;
+    filter: drop-shadow(0px 6px 16px rgba(255, 80, 95, 0.35)) drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.08));
+}
+
+/* Text Inside Cloud */
+.mst-thought-cloud-text {
+    position: relative;
+    z-index: 2;
+    color: #0f172a;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: 12.5px;
+    font-weight: 600;
+    letter-spacing: -0.2px;
+    pointer-events: none;
+    line-height: 1;
+    display: inline-block;
+    text-align: center;
+    transition: color 0.2s ease;
+}
+
+#mst-chat-thought:hover .mst-thought-cloud-text {
+    color: #e53e3e;
+}
+
+/* ==========================================
+   THOUGHT DOTS (Trailing straight to button)
+   ========================================== */
+
+.mst-thought-dots {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3.5px;
+    margin-top: 0px;
+    margin-right: 23px;
+    /* Centers directly above the 60px circular logo button */
+}
+
+.mst-thought-dot {
+    display: block;
+    background: #ffffff;
+    border: 1.8px solid #ff7b87;
+    border-radius: 50%;
+    box-sizing: border-box;
+    box-shadow: 0 2px 5px rgba(255, 100, 110, 0.22);
+    transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+#mst-chat-thought:hover .mst-thought-dot {
+    border-color: #ff5263;
+}
+
+.mst-dot-1 {
+    width: 12px;
+    height: 12px;
+}
+
+.mst-dot-2 {
+    width: 8px;
+    height: 8px;
+    transform: translateX(2px);
+}
+
+.mst-dot-3 {
+    width: 5px;
+    height: 5px;
+    transform: translateX(4px);
+}
+
+/* ==========================================
+   HIDE CLOUD WHEN CHAT WINDOW OPENS
+   ========================================== */
+
+#mst-chat-thought.mst-thought-hidden {
+    opacity: 0;
+    transform: translateY(12px) scale(0.92);
+    pointer-events: none;
+    visibility: hidden;
+}
+
+/* ==========================================
+   MOBILE
+   ========================================== */
+
+@media (max-width: 480px) {
+    #mst-chat-thought {
+        bottom: 66px;
+    }
+
+    .mst-thought-cloud-bubble {
+        width: 145px;
+        height: 64px;
+        padding-bottom: 5px;
+    }
+
+    .mst-thought-cloud-text {
+        font-size: 11px;
+    }
+
+    .mst-thought-dots {
+        margin-right: 21px;
+        gap: 3px;
+    }
+
+    .mst-dot-1 {
+        width: 10px;
+        height: 10px;
+    }
+
+    .mst-dot-2 {
+        width: 7px;
+        height: 7px;
+    }
+
+    .mst-dot-3 {
+        width: 4.5px;
+        height: 4.5px;
     }
 }
