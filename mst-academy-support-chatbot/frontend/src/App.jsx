@@ -15,7 +15,7 @@ function App() {
   const [knowledgeStatus, setKnowledgeStatus] = useState(null)
   const [websiteStatus, setWebsiteStatus] = useState(null)
   const [isRefreshing, setIsRefreshing] = useState(false)
-  
+
   const chatWindowRef = useRef(null)
 
   useEffect(() => {
@@ -66,10 +66,10 @@ function App() {
       const res = await fetch(`${API_BASE}/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ 
-          message: userText, 
+        body: JSON.stringify({
+          message: userText,
           history: messages.map(m => ({ role: m.role, text: m.text })),
-          provider: provider 
+          provider: provider
         })
       })
       const data = await res.json()
@@ -79,16 +79,16 @@ function App() {
       else if (data.source === 'WEBSITE') sourceText = "Source: MST Academy Website"
       else if (data.source === 'BOTH') sourceText = "Source: Academy Knowledge Base + Website"
 
-      setMessages(prev => [...prev, { 
-        role: 'assistant', 
-        text: data.answer, 
-        source: sourceText 
+      setMessages(prev => [...prev, {
+        role: 'assistant',
+        text: data.answer,
+        source: sourceText
       }])
     } catch (error) {
-      setMessages(prev => [...prev, { 
-        role: 'assistant', 
-        text: "Error connecting to the support assistant. Please try again later.", 
-        source: "Error" 
+      setMessages(prev => [...prev, {
+        role: 'assistant',
+        text: "Error connecting to the support assistant. Please try again later.",
+        source: "Error"
       }])
     }
     setIsLoading(false)
@@ -110,14 +110,14 @@ function App() {
       <div className="main-container">
         <div className="header">
           <div className="header-title">
-            <h1>MST Academy</h1>
+            <h1>Masterstroke Academy</h1>
             <span className="subtitle">Support Assistant</span>
           </div>
-          <div className="header-actions" style={{display: 'flex', alignItems: 'center', gap: '16px'}}>
-            <select 
-              value={provider} 
+          <div className="header-actions" style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
+            <select
+              value={provider}
               onChange={(e) => setProvider(e.target.value)}
-              style={{padding: '4px 8px', borderRadius: '4px', border: '1px solid #e5e7eb'}}
+              style={{ padding: '4px 8px', borderRadius: '4px', border: '1px solid #e5e7eb' }}
             >
               <option value="openai">OpenAI</option>
               <option value="gemini">Google Gemini</option>
@@ -142,7 +142,7 @@ function App() {
           ))}
           {isLoading && (
             <div className="message-row assistant">
-              <div className="message-bubble" style={{fontStyle: 'italic', color: '#6b7280'}}>
+              <div className="message-bubble" style={{ fontStyle: 'italic', color: '#6b7280' }}>
                 Assistant is typing...
               </div>
             </div>
@@ -150,10 +150,10 @@ function App() {
         </div>
 
         <div className="chat-input-container">
-          <input 
-            type="text" 
+          <input
+            type="text"
             className="chat-input"
-            placeholder="Ask your question..." 
+            placeholder="Ask your question..."
             value={input}
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={handleKeyDown}
@@ -168,7 +168,7 @@ function App() {
       <div className="settings-panel">
         <div>
           <h2>Admin / Status</h2>
-          <hr style={{border: 'none', borderTop: '1px solid #e5e7eb', margin: '8px 0'}}/>
+          <hr style={{ border: 'none', borderTop: '1px solid #e5e7eb', margin: '8px 0' }} />
         </div>
 
         <div className="settings-section">
@@ -203,12 +203,12 @@ function App() {
             <span className="settings-label">Status:</span>
             <span className="settings-value">{websiteStatus?.status ?? 'Loading...'}</span>
           </div>
-          
-          <button 
-            className="refresh-button" 
-            onClick={handleRefreshWebsite} 
+
+          <button
+            className="refresh-button"
+            onClick={handleRefreshWebsite}
             disabled={isRefreshing}
-            style={{marginTop: '12px'}}
+            style={{ marginTop: '12px' }}
           >
             {isRefreshing ? 'Crawling...' : 'Refresh Website Knowledge'}
           </button>
