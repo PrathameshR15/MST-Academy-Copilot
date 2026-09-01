@@ -1,4 +1,4 @@
-(function() {
+(function () {
     // Inject CSS
     const currentScript = document.currentScript;
     const scriptUrl = currentScript ? currentScript.src : window.location.href;
@@ -27,7 +27,7 @@
                 <div style="display: flex; align-items: center;">
                     <img src="${baseUrl}/mst_logo.png" alt="Logo" style="width: 36px; height: 36px; object-fit: contain; border-radius: 50%; margin-right: 12px; background: transparent;" />
                     <div class="mst-chat-widget-title">
-                        <span>MST Academy</span>
+                        <span>Masterstroke Academy</span>
                         <span class="mst-chat-widget-subtitle">Support Assistant</span>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
 
         // Add user message to UI
         appendMessage('user', text);
-        
+
         // Update history
         const currentHistory = [...history]; // copy for payload
         history.push({ role: 'user', text: text });
@@ -129,7 +129,7 @@
             });
 
             const data = await response.json();
-            
+
             // Remove loading
             document.getElementById(loadingId)?.remove();
 
@@ -155,7 +155,7 @@
     function appendMessage(role, text, source = null) {
         const msgDiv = document.createElement('div');
         msgDiv.className = `mst-chat-widget-message mst-chat-widget-${role}`;
-        
+
         if (role === 'assistant' && typeof marked !== 'undefined') {
             msgDiv.innerHTML = marked.parse(text);
         } else {

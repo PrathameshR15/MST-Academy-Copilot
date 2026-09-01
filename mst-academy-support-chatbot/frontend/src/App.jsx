@@ -110,7 +110,7 @@ function App() {
       <div className="main-container">
         <div className="header">
           <div className="header-title">
-            <h1>Masterstroke Academy</h1>
+            <h1>MST Academy</h1>
             <span className="subtitle">Support Assistant</span>
           </div>
           <div className="header-actions" style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
