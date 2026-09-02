@@ -75,12 +75,13 @@
                 <span class="mst-thought-dot mst-dot-2"></span>
                 <span class="mst-thought-dot mst-dot-3"></span>
             </div>
-        </div>
-
-        <!-- Existing Chat Button -->
+             <!-- Existing Chat Button -->
         <button id="mst-chat-widget-button">
             <img src="${baseUrl}/mst_logo.png" alt="Chat" style="width: 36px; height: 36px; object-fit: contain; border-radius: 50%;" />
         </button>
+        </div>
+
+       
     `;
 
     // DOM Elements

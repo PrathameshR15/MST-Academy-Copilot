@@ -542,6 +542,7 @@
 @media (max-width: 480px) {
     #mst-chat-thought {
         bottom: 66px;
+        height: 280px;
     }
 
     .mst-thought-cloud-bubble {
