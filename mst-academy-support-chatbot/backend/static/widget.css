@@ -483,14 +483,14 @@
    THOUGHT DOTS (Trailing straight to button)
    ========================================== */
 
-.mst-thought-dots {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 3.5px;
-    margin-top: 0px;
-    margin-right: 23px;
-    /* Centers directly above the 60px circular logo button */
+.mst-thought-dots span {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.mst-thought-cloud-bubble {
+    opacity: 0;
+    transition: opacity 0.5s ease;
 }
 
 .mst-thought-dot {
