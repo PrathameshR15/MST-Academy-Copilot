@@ -9,6 +9,25 @@ from config import LOCAL_RELEVANCE_THRESHOLD, WEBSITE_RELEVANCE_THRESHOLD
 NOT_FOUND_MESSAGE = "I couldn't find that information in the available MST Academy knowledge. Please contact Academy Support for further assistance."
 
 def answer_question(question: str, history: list = None, provider: str = "openai") -> dict:
+    import re
+    q_lower = question.lower()
+    forbidden_terms = [
+        "true or false", "true/false", "mcq", "multiple choice", 
+        "test answers", "exam answers", "assessment answers",
+        "is this true", "is that true", "is it true", "is this false",
+        "is that false", "is it false", "check true", "check false",
+        "which of the following"
+    ]
+    
+    # Check for MCQ pattern (e.g., "A. option1 B. option2 C. option3")
+    has_mcq_pattern = bool(re.search(r'\b[a-d]\.\s', question, re.IGNORECASE))
+    
+    if any(term in q_lower for term in forbidden_terms) or has_mcq_pattern:
+        return {
+            "answer": "As per the Masterstroke Academy's integrity guidelines, I cannot provide answers to assessment questions, MCQs, or True/False questions. Please review the course materials to complete your evaluation.",
+            "source": "SYSTEM"
+        }
+
     if history is None:
         history = []
         
@@ -57,9 +76,9 @@ def answer_question(question: str, history: list = None, provider: str = "openai
         
     # 4. Generate answer based on selected provider
     if provider.lower() == "gemini":
-        answer = generate_gemini_answer(question, context)
+        answer = generate_gemini_answer(question, context, history)
     else:
-        answer = generate_openai_answer(question, context)
+        answer = generate_openai_answer(question, context, history)
     
     return {
         "answer": answer,

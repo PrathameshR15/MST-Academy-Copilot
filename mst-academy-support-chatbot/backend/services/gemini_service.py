@@ -5,7 +5,7 @@ from google.generativeai.types import HarmCategory, HarmBlockThreshold
 from config import GEMINI_API_KEY, GEMINI_MODEL
 from services.openai_service import SYSTEM_PROMPT
 
-def generate_gemini_answer(question: str, context: str) -> str:
+def generate_gemini_answer(question: str, context: str, history: list = None) -> str:
     if not GEMINI_API_KEY:
         return "System Configuration Error: Gemini API key is missing. Please configure GEMINI_API_KEY."
 
@@ -16,7 +16,11 @@ def generate_gemini_answer(question: str, context: str) -> str:
             system_instruction=SYSTEM_PROMPT
         )
         
-        prompt = f"USER QUESTION: {question}\n\nCONTEXT:\n{context}"
+        history_str = ""
+        if history:
+            history_str = "Conversation History:\n" + "\n".join([f"{msg.get('role', 'user')}: {msg.get('text', '')}" for msg in history[-4:]]) + "\n\n"
+            
+        prompt = f"{history_str}USER QUESTION: {question}\n\nCONTEXT:\n{context}"
         
         # Turn off safety filters as this is a support chatbot relying on strict context
         safety_settings = {

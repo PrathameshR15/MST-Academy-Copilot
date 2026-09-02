@@ -28,8 +28,15 @@ else:
     ALLOWED_ORIGINS = [
         "https://masterstroke.academy",
         "https://www.masterstroke.academy",
+        "https://events.masterstroke.academy",
+        "http://localhost:8000",
+        "http://localhost:5173",
+        "https://mst-academy-copilot.onrender.com",
         "http://localhost:3000",
-        "http://localhost:3000/"
+        "http://localhost",
+        "http://127.0.0.1:5173",
+        "http://127.0.0.1:3000",
+        "http://127.0.0.1:8000"
     ]
 
 KNOWLEDGE_DIR = os.path.join(os.path.dirname(__file__), "data", "knowledge")

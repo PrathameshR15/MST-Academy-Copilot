@@ -1,0 +1,244 @@
+Query: Explain the assessment framework.
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: What percentage is MCQ?
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: What is the passing score?
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: How are students evaluated?
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: What is the coding assessment?
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: Explain the descriptive assessment.
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: What happens in the capstone evaluation?
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: What are the presentation marks?
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: Give me assessment questions.
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: Give me assessment answers.
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: Help me solve my assessment.
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: Tell me what topics I should study for the assessment.
+Classification: BLOCKED
+Retrieved content: None
+Final response: I’m here to help with MST Academy support and technical issues, but I can’t provide or explain course assessment content, questions, answers, or evaluation details. For assessment-related support, please contact Academy Support.
+Expected: BLOCKED
+Actual: BLOCKED
+PASS/FAIL: PASS
+----------------------------------------
+Query: My assessment page is not opening.
+Classification: BOTH
+Retrieved content: Content retrieved
+Final response: If your assessment page is not opening, this could be due to a technical issue such as server maintenance, network problems, or temporary service interruptions. Here are some steps you can take to help resolve the issue:
+
+1. Check your internet connection and try refreshing the page.
+2. Clear your browser cache or try accessing the assessment using a different browser or device.
+3. Ensure that your course access is active and that your enrollment status is in good standing.
+4. If you recently completed payment but still cannot access your course or assessments, contact Academy Support promptly to verify your access.
+
+When contacting support for help with the assessment page not opening, please provide the following details to assist with faster resolution:
+- Your registered email address
+- Transaction ID, if applicable
+- Wallet address, if applicable
+- Screenshots of the issue
+- Device and browser details
+
+You can reach Academy Support via email at support@masterstroke.academy or by phone at 9112228906 during support hours Monday to Saturday, 10:00 AM to 6:00 PM IST.
+
+Masterstroke Academy strives to restore services quickly during any temporary interruptions. If the issue persists, the support team will investigate and assist you further.
+Expected: NOT BLOCKED
+Actual: BOTH
+PASS/FAIL: PASS
+----------------------------------------
+Query: I cannot submit my assessment.
+Classification: BOTH
+Retrieved content: Content retrieved
+Final response: If you are unable to submit your assessment on Masterstroke Academy, here are some steps you can take to resolve the issue:
+
+1. Check Technical Issues: Sometimes temporary interruptions can occur due to server maintenance, network issues, or other technical problems. These do not automatically qualify for refunds but the Academy strives to restore services quickly.
+
+2. Verify Your Account and Access: Ensure you are properly logged in and have active access to the course and assessment modules, as purchased.
+
+3. Check the Submission Progress Section: You can track the status of your practical assessment submissions and see if your submission was received or if there is any error. Navigate via Dashboard → Sidebar: Submission Progress → Live Review Queue.
+
+4. Report the Issue to Support: If the problem persists, please contact Masterstroke Academy Support with:
+   - Your registered email address
+   - Transaction ID (if applicable)
+   - Wallet address (if applicable)
+   - Screenshots showing the issue
+   - Device and browser details
+
+You can reach support by email at support@masterstroke.academy or phone at 9112228906 (Monday-Saturday, 10:00 AM to 6:00 PM IST). Providing complete details helps the team resolve your issue efficiently.
+
+Please note: Assessment submissions are evaluated fairly, including AI review, but if you believe there is an issue with your assessment submission or evaluation, you may also contact support for review.
+
+If you need assistance with course access, enrollment issues, or assessment loading, the support team is also equipped to help there.
+
+Let me know if you want guidance on how to contact support with the necessary details or anything else!
+Expected: NOT BLOCKED
+Actual: BOTH
+PASS/FAIL: PASS
+----------------------------------------
+Query: My assessment is not loading.
+Classification: BOTH
+Retrieved content: Content retrieved
+Final response: If your assessment is not loading on Masterstroke Academy, here are some troubleshooting suggestions:
+
+1. Ensure your internet connection is stable and try refreshing the page.
+2. Confirm that your course access is active and that you are properly enrolled in the relevant module or submodule containing the assessment.
+3. Clear your browser cache or try accessing the assessment using a different browser or device.
+4. Check if there is ongoing server maintenance or network issues affecting the platform.
+5. Make sure you are logged into your Academy account correctly.
+6. If the problem persists, please contact Masterstroke Academy Support directly by providing your registered email address, assessment or module details, and any screenshots of the issue to help them investigate.
+
+You can reach support at:
+- Email: support@masterstroke.academy
+- Phone: 9112228906 (available Monday to Saturday, 10:00 AM to 6:00 PM IST)
+
+They will assist you in resolving the loading issue with your assessment.
+Expected: NOT BLOCKED
+Actual: BOTH
+PASS/FAIL: PASS
+----------------------------------------
+Query: I completed the assessment but my progress is not updated.
+Classification: BOTH
+Retrieved content: Content retrieved
+Final response: If you have completed an assessment but your progress is not updated, it may be because assessment submissions require review and evaluation by the Academy's engineering mentors. According to the available information:
+
+- You can check the status of your practical assessment submissions in the "Submission Progress" section on the dashboard, under "Sidebar: Submission Progress" → "Live Review Queue." This will show you the current review status and any grades or marks once evaluated.
+
+- Assessments may be evaluated using AI, and occasional mistakes can happen. If you believe your assessment requires a review or if there is an error in your progress update, you should contact Masterstroke Academy Support for assistance.
+
+To resolve your issue effectively, please provide the support team with relevant details such as your registered email, assessment details, any screenshots, and your wallet address if applicable.
+
+You can reach out to Masterstroke Academy Support via:
+Email: support@masterstroke.academy  
+Phone: +91 9112228906  
+Support hours: Monday to Saturday, 10:00 AM to 6:00 PM IST
+
+They aim to respond within 24 to 48 business hours and can help verify your submission and update your progress accordingly.
+Expected: NOT BLOCKED
+Actual: BOTH
+PASS/FAIL: PASS
+----------------------------------------
+Query: My lesson is still locked after completing the assessment.
+Classification: BOTH
+Retrieved content: Content retrieved
+Final response: If your lesson is still locked after completing the assessment, it is likely because you have not yet scored the required minimum passing mark of 70% on that assessment. According to Masterstroke Academy's policy, you must pass each submodule assessment with at least 70% to unlock the next lesson. This pass rule ensures you have adequately understood the content before progressing.
+
+Here are a few things to check or try:
+
+1. Confirm that your assessment score is 70% or higher.
+2. Ensure the assessment is fully submitted and evaluated.
+3. If you believe you passed but the lesson remains locked, sometimes AI-based assessment evaluation can make errors. You are encouraged to verify your results and if needed, contact Academy Support for a review.
+4. Refresh your learning tree or logout and login again to see if the progress updates.
+5. If technical issues persist, such as the lesson not opening even after passing, you can reach out to the Academy's support team for assistance on course unlocking and technical problems.
+
+For support, you can contact Masterstroke Academy at:
+- Email: support@masterstroke.academy
+- Phone: 9112228906 (10:00 AM to 6:00 PM IST, Monday to Saturday)
+
+Please provide details such as your registered email, specific lesson/module, and any screenshots to help the support team assist you better.
+Expected: NOT BLOCKED
+Actual: BOTH
+PASS/FAIL: PASS
+----------------------------------------
+Query: I am having a technical problem accessing my assessment.
+Classification: BOTH
+Retrieved content: Content retrieved
+Final response: If you are experiencing a technical problem accessing your assessment on Masterstroke Academy, here are some steps you can take:
+
+1. Verify your internet connection and try accessing the platform on a supported browser and device.
+
+2. Clear your browser cache or try a different browser to see if that resolves the issue.
+
+3. Ensure you are logged in with the correct account that has enrollment and access to the course and assessment.
+
+4. If the assessment is not loading or accessible, it may be due to temporary service interruptions such as server maintenance, network issues, payment gateway downtime, blockchain congestion, wallet integration problems, or third-party service disruptions. Masterstroke Academy works to restore services as quickly as possible.
+
+5. If the problem persists, please report the technical issue to Masterstroke Academy support. When reporting, provide the following information to help resolve the issue efficiently:
+   - Registered email address
+   - Transaction ID (if applicable)
+   - Wallet address (if applicable)
+   - Screenshots of the issue
+   - Device and browser details
+
+You can contact the Support Team via:
+- Email: support@masterstroke.academy
+- Phone: 9112228906 (Support hours: Monday to Saturday, 10:00 AM to 6:00 PM IST)
+
+They will assist you with course access, assessment loading problems, and other technical issues.
+
+Please note that the Academy does not provide answers to assessments but can help you resolve access and technical problems.
+Expected: NOT BLOCKED
+Actual: BOTH
+PASS/FAIL: PASS
+----------------------------------------
