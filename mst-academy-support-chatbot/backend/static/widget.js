@@ -67,7 +67,7 @@
                              A 28 28 0 0 1 96 74 
                              A 22 22 0 0 1 52 70 Z" />
                 </svg>
-                <span class="mst-thought-cloud-text">Ask me anything...</span>
+                <span class="mst-thought-cloud-text">Ask me anything ?</span>
             </div>
 
             <div class="mst-thought-dots">
